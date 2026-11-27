@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "receiptId": "8055561f-a1ee-4cd5-9b88-d89ec7cfc0e6",
+  "status": "current",
+  "command": "deliver",
+  "type": "explainer",
+  "input": "C:\\Users\\mattl\\Desktop\\TRILHA SOKA\\.archify\\explainer-trilha-soka-20261127-003058\\candidate.archify.md",
+  "output": "C:\\Users\\mattl\\Desktop\\TRILHA SOKA\\.archify\\explainer-trilha-soka-20261127-003058\\resumo-trilha-soka.html",
+  "specification": {
+    "sha256": "995cf566232230f811fdd71c83b8504a2e9359a49c1447857540358a07fcc6a5",
+    "bytes": 5960
+  },
+  "artifact": {
+    "sha256": "3b072a8f74990e9367a78124db320c7f3bc59120931b8343eb05667083f1fa42",
+    "bytes": 1940011
+  },
+  "explainer": {
+    "preparedSha256": "c518e6911214a85c2452bf3c846e1b16fb5718f9552b96a7e2e732739bf2bd66",
+    "dependencies": [
+      {
+        "kind": "diagram-spec",
+        "id": "ichinen-flow",
+        "inline": true,
+        "sha256": "ef1e695f865b600a8b294ee0729aaec5ea1d3eff42c5b6ec8a1cdced60a4a55a",
+        "bytes": 1212
+      },
+      {
+        "kind": "diagram-spec",
+        "id": "laws-study",
+        "inline": true,
+        "sha256": "edb7a86ceb139f10f8636a0ce935cbb9681e4c616b77be8245335d9b3ff6dd80",
+        "bytes": 1164
+      },
+      {
+        "kind": "diagram-spec",
+        "id": "poisons-flow",
+        "inline": true,
+        "sha256": "fd8972b47dc50690fdfc82b042f1c61a06787bf16518e5922a6b4551b858f823",
+        "bytes": 2494
+      },
+      {
+        "kind": "diagram-spec",
+        "id": "domains-map",
+        "inline": true,
+        "sha256": "7f0fa16ef25983a5b23d7525f3b621047e926a8d435d56f4cecde9e77ef3d99d",
+        "bytes": 2111
+      }
+    ]
+  }
+}

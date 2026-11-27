@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f5f2eb">
+  <title>Trilha Soka | Guia de estudo</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="#inicio" aria-label="Trilha Soka, início"><span class="brand-mark">TS</span><span>Trilha Soka</span></a>
+    <nav class="primary-nav" aria-label="Navegação principal">
+      <button data-section="inicio" class="nav-button active">Visão geral</button>
+      <button data-section="mapas" class="nav-button">Mapas</button>
+      <button data-section="historia" class="nav-button">Linha do tempo</button>
+      <button data-section="modulos" class="nav-button">Módulos</button>
+      <button data-section="glossario" class="nav-button">Glossário</button>
+    </nav>
+    <label class="global-search"><span aria-hidden="true">⌕</span><input id="global-search" type="search" placeholder="Buscar conceito" aria-label="Buscar conceito no glossário"><kbd>/</kbd></label>
+  </header>
+
+  <main>
+    <section id="inicio" class="page-section active-section">
+      <div class="hero">
+        <div class="hero-copy">
+          <p class="eyebrow">Guia de estudo · Segundo Grau</p>
+          <h1>TRILHA <em>SOKA</em></h1>
+          <p class="hero-lede">Sete módulos de estudo, com conceitos agrupados pelas relações apresentadas no material.</p>
+          <p class="source-note">Base principal: <code>TRILHA SOKA.txt</code>. As listas complementares enviadas pelo usuário aparecem identificadas nas referências.</p>
+          <button class="button button-dark" data-go="mapas">Explorar os mapas <span aria-hidden="true">↗</span></button>
+        </div>
+        <div class="hero-aside">
+          <div class="stat"><strong id="concept-count">—</strong><span>conceitos consultáveis</span></div>
+          <div class="stat"><strong id="graph-count">—</strong><span>grupos de relações</span></div>
+          <div class="stat"><strong id="event-count">—</strong><span>marcos datados no TXT</span></div>
+          <p class="aside-foot">Os grupos são independentes. Uma ligação aparece apenas quando o material sustenta a relação ou quando a síntese é marcada como inferida.</p>
+        </div>
+      </div>
+
+      <div class="section-heading">
+        <div><p class="eyebrow">Pontos de entrada</p><h2>Os sete módulos</h2></div>
+        <button class="text-button" data-go="modulos">Ver resumos <span aria-hidden="true">→</span></button>
+      </div>
+      <div id="overview-modules" class="module-grid"></div>
+
+      <div class="section-heading map-index-heading">
+        <div><p class="eyebrow">Conceitos relacionados</p><h2>Escolha um mapa</h2><p class="section-intro">Cada mapa mostra um conjunto específico. Conceitos que não formam uma relação clara ficam disponíveis no glossário.</p></div>
+      </div>
+      <div id="overview-graphs" class="graph-index"></div>
+      <div class="notice"><span class="notice-dot"></span><p><strong>Como ler:</strong> linhas contínuas indicam relações explícitas no TXT. Linhas pontilhadas indicam uma síntese inferida a partir do texto.</p></div>
+    </section>
+
+    <section id="mapas" class="page-section">
+      <div class="section-heading page-title"><div><p class="eyebrow">Exploração visual</p><h2>Mapas conceituais</h2><p class="section-intro">Selecione um grupo para ver os nós e as conexões rotuladas.</p></div></div>
+      <div class="graph-controls">
+        <label>Grupo <select id="graph-select"></select></label>
+        <label>Módulo <select id="graph-module-filter"><option value="todos">Todos</option></select></label>
+        <label class="graph-search">Localizar conceito <input id="graph-search" type="search" placeholder="Nome do conceito"></label>
+      </div>
+      <div class="graph-workspace">
+        <aside class="graph-sidebar"><div id="graph-list" class="graph-list"></div><div class="legend"><span class="legend-item"><i class="legend-line"></i> explícita no TXT</span><span class="legend-item"><i class="legend-line inferred"></i> inferida</span><span class="legend-item"><i class="legend-line supplementary"></i> lista complementar</span></div></aside>
+        <div class="graph-main">
+          <div id="graph-summary" class="graph-summary"></div>
+          <div id="graph-viewport" class="graph-viewport" tabindex="0" aria-label="Mapa conceitual interativo"></div>
+          <div class="graph-hint-row"><p class="graph-hint">Selecione um nó ou uma conexão para ver os detalhes. Use “Enquadrar mapa” para ver tudo; Ctrl + roda amplia.</p><button id="graph-fit" class="text-button" type="button">Enquadrar mapa</button></div>
+        </div>
+        <aside id="detail-panel" class="detail-panel" aria-live="polite"><div class="detail-empty"><span class="detail-symbol">◉</span><p>Selecione um conceito ou uma conexão para consultar os detalhes.</p></div></aside>
+      </div>
+    </section>
+
+    <section id="historia" class="page-section">
+      <div class="section-heading page-title"><div><p class="eyebrow">Cronologia única</p><h2>Marcos históricos</h2><p class="section-intro">A ordem e a precisão das datas seguem o TXT. O documento não fornece datas biográficas para todos os personagens citados.</p></div></div>
+      <div class="timeline-controls"><label>Personagem <select id="timeline-person"><option value="todos">Todos</option></select></label><label>Buscar acontecimento <input id="timeline-search" type="search" placeholder="Ex.: fundação, prisão, publicação"></label><span id="timeline-result-count" class="result-count"></span></div>
+      <div id="timeline" class="timeline"></div>
+    </section>
+
+    <section id="modulos" class="page-section">
+      <div class="section-heading page-title"><div><p class="eyebrow">Síntese para revisão</p><h2>Resumo dos módulos</h2><p class="section-intro">Cada resumo reúne o objetivo e os conceitos que o próprio texto associa ao módulo.</p></div></div>
+      <div id="module-details" class="module-details"></div>
+    </section>
+
+    <section id="glossario" class="page-section">
+      <div class="section-heading page-title"><div><p class="eyebrow">Consulta</p><h2>Glossário</h2><p class="section-intro">As definições abaixo vêm da mesma base usada nos mapas. Quando o TXT só lista um termo, isso fica indicado.</p></div></div>
+      <div class="glossary-controls"><label>Buscar no glossário <input id="glossary-search" type="search" placeholder="Digite um conceito, termo ou categoria"></label><label>Categoria <select id="glossary-category"><option value="todas">Todas</option></select></label><span id="glossary-count" class="result-count"></span></div>
+      <div id="glossary-list" class="glossary-list"></div>
+    </section>
+  </main>
+
+  <footer class="footer"><a class="brand" href="#inicio"><span class="brand-mark">TS</span><span>Trilha Soka</span></a><p>Resumo baseado em <code>TRILHA SOKA.txt</code> e nos complementos indicados nas referências.</p><button class="text-button" data-go="inicio">Voltar ao início ↑</button></footer>
+  <script src="app.js"></script>
+</body>
+</html>

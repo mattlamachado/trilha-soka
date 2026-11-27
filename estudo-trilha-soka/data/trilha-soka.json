@@ -1,0 +1,3135 @@
+{
+  "source": "TRILHA SOKA.txt",
+  "modules": [
+    {
+      "id": "m1",
+      "number": 1,
+      "title": "Compreender a época e o local em que vivemos",
+      "summary": "Apresenta os Últimos Dias da Lei, os três venenos e a adaptação à cultura local. O módulo relaciona a prática do Budismo Nichiren à transformação pessoal e social.",
+      "objective": "Compreender o contexto da época atual e praticar sem perder de vista a essência do budismo.",
+      "concepts": [
+        "ultimos-dias",
+        "tres-venenos",
+        "zuiho-bini",
+        "keho",
+        "kegui",
+        "revolucao-humana"
+      ],
+      "relations": [
+        "A prática articula ensinamento, prática e prova; zuiho bini adapta as formas locais sem alterar os princípios fundamentais."
+      ],
+      "sourceRef": "TXT, linhas 5–259"
+    },
+    {
+      "id": "m2",
+      "number": 2,
+      "title": "Vencendo com o Gosho: O objeto de devoção para observar a mente",
+      "summary": "Explora um escrito de Nichiren Daishonin sobre os três mil mundos, observar a mente e o Gohonzon. Observar a mente é reconhecer o estado de Buda na própria vida e agir com sabedoria no cotidiano.",
+      "objective": "Compreender o Gohonzon como objeto de devoção e a prática como meio de manifestar o potencial de Buda.",
+      "concepts": [
+        "observar-mente",
+        "gohonzon",
+        "dez-mundos",
+        "ichinen-sanzen",
+        "daimoku",
+        "makiguchi"
+      ],
+      "relations": [
+        "O texto do módulo liga observar a mente aos dez mundos, ao Gohonzon e à transformação da vida cotidiana."
+      ],
+      "sourceRef": "TXT, linhas 281–323"
+    },
+    {
+      "id": "m3",
+      "number": 3,
+      "title": "A oração determinada muda toda uma vida",
+      "summary": "Apresenta possessão mútua, dez fatores, três domínios, Ichinen Sanzen, simultaneidade de causa e efeito e determinação. O percurso vai da oração com fé à ação no momento presente.",
+      "objective": "Entender como a condição de vida pode se transformar por meio da prática constante, da determinação e da ação.",
+      "concepts": [
+        "dez-mundos",
+        "mundo-inferno",
+        "mundo-fome",
+        "mundo-animalidade",
+        "mundo-ira",
+        "mundo-tranquilidade",
+        "mundo-alegria",
+        "mundo-erudicao",
+        "mundo-absorcao",
+        "mundo-bodhisattva",
+        "mundo-buda",
+        "possessao-mutua",
+        "dez-fatores",
+        "fator-aparencia",
+        "fator-natureza",
+        "fator-entidade",
+        "fator-poder",
+        "fator-influencia",
+        "fator-causa-interna",
+        "fator-relacao",
+        "fator-efeito-latente",
+        "fator-efeito-manifesto",
+        "fator-consistencia",
+        "tres-dominios",
+        "ichinen-sanzen",
+        "cinco-componentes",
+        "simultaneidade",
+        "determinacao",
+        "niji",
+        "menina-dragao",
+        "daimoku",
+        "revolucao-humana"
+      ],
+      "relations": [
+        "Os dez mundos, os dez fatores e os três domínios compõem a explicação de Ichinen Sanzen; a prática de daimoku é apresentada como causa da iluminação."
+      ],
+      "sourceRef": "TXT, linhas 327–693"
+    },
+    {
+      "id": "m4",
+      "number": 4,
+      "title": "Vencendo com o Gosho: O Daimoku do Sutra do Lótus",
+      "summary": "Lê trechos de O Daimoku do Sutra do Lótus, incluindo os três significados de Myo e a iluminação universal. Destaca que todas as pessoas podem atingir o estado de Buda na forma em que se apresentam.",
+      "objective": "Compreender o poder transformador do daimoku e a possibilidade universal de iluminação conforme o texto do curso.",
+      "concepts": [
+        "daimoku",
+        "myo",
+        "iluminacao-universal",
+        "mulheres-iluminacao",
+        "menina-dragao"
+      ],
+      "relations": [
+        "A carta relaciona a recitação do daimoku aos significados de Myo e à possibilidade de iluminação para todas as pessoas."
+      ],
+      "sourceRef": "TXT, linhas 694–744"
+    },
+    {
+      "id": "m5",
+      "number": 5,
+      "title": "Aspectos da vida iluminada",
+      "summary": "Desenvolve os três significados de Myo, as três grandes leis secretas e os três tipos de aprendizado. Conclui com verdadeiro aspecto, vida eterna do Buda e kudoku.",
+      "objective": "Reconhecer os conceitos apresentados como aspectos relacionados da prática e da vida iluminada.",
+      "concepts": [
+        "myo",
+        "tres-leis",
+        "santuario",
+        "gohonzon",
+        "daimoku",
+        "preceitos",
+        "meditacao",
+        "sabedoria",
+        "verdadeiro-aspecto",
+        "vida-eterna",
+        "kudoku"
+      ],
+      "relations": [
+        "O material estabelece correspondências entre santuário, objeto de devoção e daimoku e, respectivamente, preceitos, meditação e sabedoria."
+      ],
+      "sourceRef": "TXT, linhas 745–959"
+    },
+    {
+      "id": "m6",
+      "number": 6,
+      "title": "Vencendo com o Gosho: Saldar as dívidas de gratidão",
+      "summary": "Parte do escrito Saldar as Dívidas de Gratidão e do vínculo de Nichiren Daishonin com Dozen-bo. O módulo apresenta gratidão ao mestre como compromisso com o estudo, a sabedoria e a felicidade das pessoas.",
+      "objective": "Relacionar gratidão a ações concretas em prol da Lei, dos mestres e das pessoas.",
+      "concepts": [
+        "gratidão",
+        "dozen-bo",
+        "compaixao",
+        "sabedoria",
+        "mestre-discipulo",
+        "kosen-rufu"
+      ],
+      "relations": [
+        "O texto apresenta estudo, desenvolvimento de sabedoria e dedicação à felicidade das pessoas como formas de saldar a gratidão."
+      ],
+      "sourceRef": "TXT, linhas 960–1034"
+    },
+    {
+      "id": "m7",
+      "number": 7,
+      "title": "Na companhia do Mestre, inspirar a transformação",
+      "summary": "Reúne unicidade de mestre e discípulo, sucessão dos Três Mestres Soka, revolução humana, liderança de Ikeda e a metáfora do índigo. O legado aparece como prática, ação e continuidade do kosen-rufu.",
+      "objective": "Compreender como discípulos dão continuidade aos ideais recebidos e desenvolvem seu próprio potencial.",
+      "concepts": [
+        "mestre-discipulo",
+        "makiguchi",
+        "josei-toda",
+        "daisaku-ikeda",
+        "soka-gakkai",
+        "kosen-rufu",
+        "revolucao-humana",
+        "indigo",
+        "cinco-diretrizes",
+        "uniao"
+      ],
+      "relations": [
+        "O TXT relaciona a sucessão dos mestres à continuidade da Soka Gakkai, ao desenvolvimento dos discípulos e à propagação do kosen-rufu."
+      ],
+      "sourceRef": "TXT, linhas 1035–1664"
+    }
+  ],
+  "concepts": [
+    {
+      "id": "ultimos-dias",
+      "name": "Últimos Dias da Lei",
+      "category": "princípio budista",
+      "definition": "Período em que, segundo o material, a prática do Nam-myoho-renge-kyo revelado por Nichiren Daishonin permite criar a causa da iluminação.",
+      "context": "Contrasta com os Primeiros e Médios Dias da Lei e situa a prática no mundo atual.",
+      "modules": [
+        1
+      ],
+      "related": [
+        "tres-venenos",
+        "nam-myoho-renge-kyo",
+        "nichiren-daishonin"
+      ],
+      "quotes": [],
+      "sourceRef": "TXT, linhas 11–76"
+    },
+    {
+      "id": "tres-venenos",
+      "name": "Três venenos",
+      "category": "princípio budista",
+      "definition": "Avareza, ira e estupidez. O material os descreve como obstáculos à iluminação, associados à ignorância e à destruição da bondade humana.",
+      "context": "Módulo 1 liga os venenos às ilusões e às três calamidades.",
+      "modules": [
+        1
+      ],
+      "related": [
+        "avareza",
+        "ira",
+        "estupidez",
+        "ilusoes",
+        "tres-calamidades"
+      ],
+      "quotes": [
+        {
+          "text": "Da avareza resulta a fome; da estupidez resulta a peste; da ira resulta a guerra.",
+          "attribution": "Nichiren Daishonin, conforme transcrição do material",
+          "source": "TXT, linha 119"
+        }
+      ],
+      "sourceRef": "TXT, linhas 85–167"
+    },
+    {
+      "id": "avareza",
+      "name": "Avareza",
+      "category": "princípio budista",
+      "definition": "Um dos três venenos. O trecho atribuído a Nichiren Daishonin associa a avareza à fome.",
+      "context": "Parte da estrutura três venenos e calamidades.",
+      "modules": [
+        1
+      ],
+      "related": [
+        "tres-venenos",
+        "fome"
+      ],
+      "quotes": [],
+      "sourceRef": "TXT, linhas 109–119"
+    },
+    {
+      "id": "ira",
+      "name": "Ira",
+      "category": "princípio budista",
+      "definition": "Um dos três venenos. O trecho atribuído a Nichiren Daishonin associa a ira à guerra.",
+      "context": "Parte da estrutura três venenos e calamidades.",
+      "modules": [
+        1
+      ],
+      "related": [
+        "tres-venenos",
+        "guerra"
+      ],
+      "quotes": [],
+      "sourceRef": "TXT, linhas 109–119"
+    },
+    {
+      "id": "estupidez",
+      "name": "Estupidez",
+      "category": "princípio budista",
+      "definition": "Um dos três venenos. O trecho atribuído a Nichiren Daishonin associa a estupidez à peste.",
+      "context": "Parte da estrutura três venenos e calamidades.",
+      "modules": [
+        1
+      ],
+      "related": [
+        "tres-venenos",
+        "peste"
+      ],
+      "quotes": [],
+      "sourceRef": "TXT, linhas 109–119"
+    },
+    {
+      "id": "ilusoes",
+      "name": "Ilusões",
+      "category": "conceito filosófico",
+      "definition": "O módulo cita ilusões do pensamento e do desejo, ilusões incontáveis e ilusões sobre a verdadeira natureza da existência. As ilusões do desejo são descritas como causadas pelos três venenos.",
+      "context": "O fio de Ariadne é usado como imagem do caminho para atravessar ilusões que geram sofrimento.",
+      "modules": [
+        1
+      ],
+      "related": [
+        "tres-venenos",
+        "transformacao"
+      ],
+      "quotes": [],
+      "sourceRef": "TXT, linhas 119–165"
+    },
+    {
+      "id": "tres-calamidades",
+      "name": "Três calamidades",
+      "category": "conceito filosófico",
+      "definition": "Fome, peste e guerra. O material as relaciona, respectivamente, à avareza, à estupidez e à ira.",
+      "context": "Efeitos sociais associados à prevalência dos três venenos.",
+      "modules": [
+        1
+      ],
+      "related": [
+        "fome",
+        "peste",
+        "guerra",
+        "tres-venenos"
+      ],
+      "quotes": [],
+      "sourceRef": "TXT, linha 119"
+    },
+    {
+      "id": "fome",
+      "name": "Fome",
+      "category": "acontecimento ou efeito",
+      "definition": "Uma das três calamidades, associada no texto à avareza.",
+      "context": "Aparece na explicação de três venenos e calamidades.",
+      "modules": [
+        1
+      ],
+      "related": [
+        "avareza",
+        "tres-calamidades"
+      ],
+      "quotes": [],
+      "sourceRef": "TXT, linha 119"
+    },
+    {
+      "id": "peste",
+      "name": "Peste",
+      "category": "acontecimento ou efeito",
+      "definition": "Uma das três calamidades, associada no texto à estupidez.",
+      "context": "Aparece na explicação de três venenos e calamidades.",
+      "modules": [
+        1
+      ],
+      "related": [
+        "estupidez",
+        "tres-calamidades"
+      ],
+      "quotes": [],
+      "sourceRef": "TXT, linha 119"
+    },
+    {
+      "id": "guerra",
+      "name": "Guerra",
+      "category": "acontecimento ou efeito",
+      "definition": "Uma das três calamidades, associada no texto à ira.",
+      "context": "Aparece na explicação de três venenos e calamidades.",
+      "modules": [
+        1
+      ],
+      "related": [
+        "ira",
+        "tres-calamidades"
+      ],
+      "quotes": [],
+      "sourceRef": "TXT, linha 119"
+    },
+    {
+      "id": "transformacao",
+      "name": "Transformação",
+      "category": "prática religiosa",
+      "definition": "O caminho descrito no módulo inclui prática diária, estudo, reflexão, fortalecimento da fé e apoio dos exemplos e ensinamentos do Mestre; o curso relaciona esse percurso à transformação e ao kosen-rufu.",
+      "context": "Resposta síntese da aula sobre três venenos.",
+      "modules": [
+        1,
+        3,
+        7
+      ],
+      "related": [
+        "ilusoes",
+        "pratica",
+        "mestre-discipulo",
+        "kosen-rufu"
+      ],
+      "quotes": [],
+      "sourceRef": "TXT, linhas 140–166"
+    },
+    {
+      "id": "zuiho-bini",
+      "name": "Zuiho bini",
+      "term": "Adaptação à cultura local",
+      "category": "princípio budista",
+      "definition": "Adaptar aspectos formais da prática à época e ao lugar sem perder a essência: fé no Gohonzon, respeito à dignidade da vida e objetivo de atingir o estado de Buda.",
+      "context": "Módulo 1 aborda respeito às culturas e distingue os ensinos imutáveis das formas e cerimônias.",
+      "modules": [
+        1
+      ],
+      "related": [
+        "keho",
+        "kegui",
+        "gohonzon"
+      ],
+      "quotes": [],
+      "sourceRef": "TXT, linhas 179–259"
+    },
+    {
+      "id": "keho",
+      "name": "Keho",
+      "term": "Lei",
+      "category": "princípio budista",
+      "definition": "Ensinos e leis expostos no budismo que não podem ser alterados. O material cita Nam-myoho-renge-kyo, fé no Gohonzon e princípios do Gosho.",
+      "context": "Distinto de kegui, que se refere às formalidades da prática.",
+      "modules": [
+        1
+      ],
+      "related": [
+        "zuiho-bini",
+        "kegui",
+        "nam-myoho-renge-kyo",
+        "gohonzon"
+      ],
+      "quotes": [],
+      "sourceRef": "TXT, linhas 198–203"
+    },
+    {
+      "id": "kegui",
+      "name": "Kegui",
+      "term": "Forma",
+      "category": "prática religiosa",
+      "definition": "Formalidades e cerimônias da prática budista, que podem se adaptar à época e ao lugar preservando a essência do ensinamento.",
+      "context": "Apresentado junto de keho na aula sobre adaptação cultural.",
+      "modules": [
+        1
+      ],
+      "related": [
+        "zuiho-bini",
+        "keho"
+      ],
+      "quotes": [],
+      "sourceRef": "TXT, linhas 198–203"
+    },
+    {
+      "id": "observar-mente",
+      "name": "Observar a mente",
+      "category": "prática religiosa",
+      "definition": "Reconhecer os dez mundos na própria vida e compreender que o estado de Buda está latente em todos. O material liga essa percepção à sabedoria para agir no mundo cotidiano.",
+      "context": "Tema central do escrito estudado no Módulo 2.",
+      "modules": [
+        2
+      ],
+      "related": [
+        "gohonzon",
+        "dez-mundos",
+        "estado-buda"
+      ],
+      "quotes": [],
+      "sourceRef": "TXT, linhas 291–316"
+    },
+    {
+      "id": "gohonzon",
+      "name": "Gohonzon",
+      "category": "prática religiosa",
+      "definition": "Objeto de devoção do Budismo de Nichiren Daishonin. O texto diz que representa os dez mundos e que Nichiren inscreveu nele Nam-myoho-renge-kyo.",
+      "context": "Aparece em Módulos 2, 3 e 5 e em outras explicações sobre a prática.",
+      "modules": [
+        2,
+        3,
+        5
+      ],
+      "related": [
+        "observar-mente",
+        "dez-mundos",
+        "nam-myoho-renge-kyo",
+        "daimoku",
+        "tres-leis"
+      ],
+      "quotes": [],
+      "sourceRef": "TXT, linhas 290–304; 356–369; 838–866"
+    },
+    {
+      "id": "dez-mundos",
+      "name": "Dez mundos",
+      "category": "conceito filosófico",
+      "definition": "Dez estados de vida latentes em todas as pessoas; não são condições fixas. Cada mundo contém os outros nove, e o arquivo dez-mundos.txt apresenta a lista e as definições.",
+      "context": "Base da possessão mútua e da estrutura de Ichinen Sanzen.",
+      "modules": [
+        2,
+        3
+      ],
+      "related": [
+        "mundo-inferno",
+        "mundo-fome",
+        "mundo-animalidade",
+        "mundo-ira",
+        "mundo-tranquilidade",
+        "mundo-alegria",
+        "mundo-erudicao",
+        "mundo-absorcao",
+        "mundo-bodhisattva",
+        "mundo-buda",
+        "possessao-mutua",
+        "gohonzon",
+        "dez-fatores",
+        "ichinen-sanzen",
+        "estado-buda"
+      ],
+      "quotes": [],
+      "sourceRef": "TRILHA SOKA.txt, linhas 356–369; dez-mundos.txt, linhas 1–58"
+    },
+    {
+      "id": "mundo-inferno",
+      "name": "Inferno",
+      "term": "Estado do inferno",
+      "category": "conceito filosófico",
+      "definition": "É a condição de vida mais baixa: sofrimento constante, sem forças para mudar as circunstâncias nem esperança em relação ao futuro.",
+      "context": "Um dos dez estados de vida; integra os Três Maus Caminhos.",
+      "modules": [2, 3],
+      "related": ["dez-mundos"],
+      "quotes": [],
+      "sourceRef": "dez-mundos.txt, linhas 2 e 26"
+    },
+    {
+      "id": "mundo-fome",
+      "name": "Fome",
+      "term": "Espíritos famintos",
+      "category": "conceito filosófico",
+      "definition": "É a obsessão por realizar desejos sem conseguir satisfazê-los; a pessoa fica dominada por desejos insaciáveis e pela insatisfação.",
+      "context": "Um dos dez estados de vida; integra os Três Maus Caminhos.",
+      "modules": [2, 3],
+      "related": ["dez-mundos"],
+      "quotes": [],
+      "sourceRef": "dez-mundos.txt, linhas 2 e 28"
+    },
+    {
+      "id": "mundo-animalidade",
+      "name": "Animalidade",
+      "term": "Animais",
+      "category": "conceito filosófico",
+      "definition": "É o estado em que a pessoa é conduzida pelos instintos e age de forma irracional. Medo e covardia dominam suas emoções, e ela pode resignar-se diante do destino.",
+      "context": "Um dos dez estados de vida; integra os Três Maus Caminhos.",
+      "modules": [2, 3],
+      "related": ["dez-mundos"],
+      "quotes": [],
+      "sourceRef": "dez-mundos.txt, linhas 2 e 30"
+    },
+    {
+      "id": "mundo-ira",
+      "name": "Ira",
+      "term": "Asuras",
+      "category": "conceito filosófico",
+      "definition": "A pessoa tem consciência de seus atos, mas parte de uma visão distorcida do certo e do errado. Egoísmo e ambição de superioridade prevalecem.",
+      "context": "Um dos dez estados de vida; com os três anteriores, forma os Quatro Maus Caminhos.",
+      "modules": [2, 3],
+      "related": ["dez-mundos"],
+      "quotes": [],
+      "sourceRef": "dez-mundos.txt, linhas 2 e 32"
+    },
+    {
+      "id": "mundo-tranquilidade",
+      "name": "Tranquilidade",
+      "term": "Seres humanos; Humanidade no arquivo",
+      "category": "conceito filosófico",
+      "definition": "É uma condição temporária de harmonia e controle dos impulsos pela razão. Pode mudar diante das circunstâncias e também é chamada de estado de Humanidade.",
+      "context": "Um dos seis estados que formam o Ciclo dos Seis Caminhos.",
+      "modules": [2, 3],
+      "related": ["dez-mundos"],
+      "quotes": [],
+      "sourceRef": "dez-mundos.txt, linhas 2 e 41"
+    },
+    {
+      "id": "mundo-alegria",
+      "name": "Alegria",
+      "term": "Seres celestiais",
+      "category": "conceito filosófico",
+      "definition": "É o contentamento que surge quando desejos se realizam e problemas se resolvem. Essa felicidade é relativa e pode desaparecer quando as circunstâncias mudam.",
+      "context": "Um dos seis estados que formam o Ciclo dos Seis Caminhos.",
+      "modules": [2, 3],
+      "related": ["dez-mundos"],
+      "quotes": [],
+      "sourceRef": "dez-mundos.txt, linhas 2 e 43"
+    },
+    {
+      "id": "mundo-erudicao",
+      "name": "Erudição",
+      "term": "Ouvintes",
+      "category": "conceito filosófico",
+      "definition": "A pessoa busca contentamento e estabilidade por meio da auto-reforma, do desenvolvimento próprio e do aprendizado com experiências de predecessores.",
+      "context": "Um dos Quatro Nobres Caminhos e parte dos Dois Veículos.",
+      "modules": [2, 3],
+      "related": ["dez-mundos"],
+      "quotes": [],
+      "sourceRef": "dez-mundos.txt, linhas 2 e 50"
+    },
+    {
+      "id": "mundo-absorcao",
+      "name": "Absorção",
+      "term": "Aqueles que despertaram para a causa",
+      "category": "conceito filosófico",
+      "definition": "A pessoa busca auto-reforma por observação direta dos fenômenos, em vez de se apoiar nas experiências dos predecessores.",
+      "context": "Um dos Quatro Nobres Caminhos e parte dos Dois Veículos.",
+      "modules": [2, 3],
+      "related": ["dez-mundos"],
+      "quotes": [],
+      "sourceRef": "dez-mundos.txt, linhas 2 e 52"
+    },
+    {
+      "id": "mundo-bodhisattva",
+      "name": "Bodhisattva",
+      "term": "Bodhisattvas",
+      "category": "conceito filosófico",
+      "definition": "A pessoa dedica-se à felicidade de outras pessoas por ações altruísticas, enquanto busca o estado de Buda e ajuda outras pessoas a manifestá-lo.",
+      "context": "Um dos Quatro Nobres Caminhos.",
+      "modules": [2, 3],
+      "related": ["dez-mundos"],
+      "quotes": [],
+      "sourceRef": "dez-mundos.txt, linhas 2 e 56"
+    },
+    {
+      "id": "mundo-buda",
+      "name": "Buda",
+      "term": "Budas",
+      "category": "conceito filosófico",
+      "definition": "É a condição de felicidade que nada corrompe, com sabedoria para compreender a essência da vida e benevolência por todas as pessoas.",
+      "context": "Um dos Quatro Nobres Caminhos; todos os dez estados são inerentes à vida de todas as pessoas.",
+      "modules": [2, 3],
+      "related": ["dez-mundos"],
+      "quotes": [],
+      "sourceRef": "dez-mundos.txt, linhas 2 e 58"
+    },
+    {
+      "id": "possessao-mutua",
+      "name": "Possessão mútua dos dez mundos",
+      "category": "princípio budista",
+      "definition": "Cada um dos dez mundos possui em si os outros nove, formando cem possibilidades.",
+      "context": "Etapa da estrutura de três mil mundos num único momento da vida.",
+      "modules": [
+        3
+      ],
+      "related": [
+        "dez-mundos",
+        "dez-fatores",
+        "ichinen-sanzen"
+      ],
+      "quotes": [],
+      "sourceRef": "TXT, linhas 450–454; 464–484"
+    },
+    {
+      "id": "dez-fatores",
+      "name": "Dez fatores",
+      "category": "conceito filosófico",
+      "definition": "Aspectos inerentes à vida que permeiam os dez mundos. As dez definições foram complementadas pela lista fornecida pelo usuário.",
+      "context": "Ligam os cem mundos às três dimensões chamadas domínios da existência.",
+      "modules": [
+        3
+      ],
+      "related": [
+        "dez-mundos",
+        "possessao-mutua",
+        "fator-aparencia",
+        "fator-natureza",
+        "fator-entidade",
+        "fator-poder",
+        "fator-influencia",
+        "fator-causa-interna",
+        "fator-relacao",
+        "fator-efeito-latente",
+        "fator-efeito-manifesto",
+        "fator-consistencia",
+        "tres-dominios",
+        "ichinen-sanzen"
+      ],
+      "quotes": [],
+      "sourceRef": "TXT, linhas 474–500; lista complementar fornecida pelo usuário"
+    },
+    {
+      "id": "fator-aparencia",
+      "name": "Aparência",
+      "term": "nyo ze so",
+      "category": "conceito filosófico",
+      "definition": "A manifestação externa da vida.",
+      "context": "Um dos dez fatores que permeiam os dez mundos.",
+      "modules": [3],
+      "related": ["dez-fatores"],
+      "quotes": [],
+      "sourceRef": "Lista complementar fornecida pelo usuário; tema no TXT, linhas 474–500"
+    },
+    {
+      "id": "fator-natureza",
+      "name": "Natureza",
+      "term": "nyo ze sho",
+      "category": "conceito filosófico",
+      "definition": "O aspecto mental ou espiritual da vida.",
+      "context": "Um dos dez fatores que permeiam os dez mundos.",
+      "modules": [3],
+      "related": ["dez-fatores"],
+      "quotes": [],
+      "sourceRef": "Lista complementar fornecida pelo usuário; tema no TXT, linhas 474–500"
+    },
+    {
+      "id": "fator-entidade",
+      "name": "Entidade",
+      "term": "nyo ze tai",
+      "category": "conceito filosófico",
+      "definition": "A totalidade da vida, que consiste da aparência e da natureza.",
+      "context": "Um dos dez fatores que permeiam os dez mundos.",
+      "modules": [3],
+      "related": ["dez-fatores"],
+      "quotes": [],
+      "sourceRef": "Lista complementar fornecida pelo usuário; tema no TXT, linhas 474–500"
+    },
+    {
+      "id": "fator-poder",
+      "name": "Poder",
+      "term": "nyo ze riki",
+      "category": "conceito filosófico",
+      "definition": "A energia inerente a cada pessoa.",
+      "context": "Um dos dez fatores que permeiam os dez mundos.",
+      "modules": [3],
+      "related": ["dez-fatores"],
+      "quotes": [],
+      "sourceRef": "Lista complementar fornecida pelo usuário; tema no TXT, linhas 474–500"
+    },
+    {
+      "id": "fator-influencia",
+      "name": "Influência",
+      "term": "nyo ze sa",
+      "category": "conceito filosófico",
+      "definition": "A ação dirigida ao exterior.",
+      "context": "Um dos dez fatores que permeiam os dez mundos.",
+      "modules": [3],
+      "related": ["dez-fatores"],
+      "quotes": [],
+      "sourceRef": "Lista complementar fornecida pelo usuário; tema no TXT, linhas 474–500"
+    },
+    {
+      "id": "fator-causa-interna",
+      "name": "Causa interna",
+      "term": "nyo ze in",
+      "category": "conceito filosófico",
+      "definition": "A causa direta para algo ocorrer.",
+      "context": "Um dos dez fatores que permeiam os dez mundos.",
+      "modules": [3],
+      "related": ["dez-fatores"],
+      "quotes": [],
+      "sourceRef": "Lista complementar fornecida pelo usuário; tema no TXT, linhas 474–500"
+    },
+    {
+      "id": "fator-relacao",
+      "name": "Relação",
+      "term": "nyo ze en",
+      "category": "conceito filosófico",
+      "definition": "As causas ou condições que ativam a causa interna.",
+      "context": "Um dos dez fatores que permeiam os dez mundos.",
+      "modules": [3],
+      "related": ["dez-fatores"],
+      "quotes": [],
+      "sourceRef": "Lista complementar fornecida pelo usuário; tema no TXT, linhas 474–500"
+    },
+    {
+      "id": "fator-efeito-latente",
+      "name": "Efeito latente",
+      "term": "nyo ze ka",
+      "category": "conceito filosófico",
+      "definition": "O resultado produzido nas profundezas da vida pela causa interna e pela relação.",
+      "context": "Um dos dez fatores que permeiam os dez mundos.",
+      "modules": [3],
+      "related": ["dez-fatores"],
+      "quotes": [],
+      "sourceRef": "Lista complementar fornecida pelo usuário; tema no TXT, linhas 474–500"
+    },
+    {
+      "id": "fator-efeito-manifesto",
+      "name": "Efeito manifesto",
+      "term": "nyo ze ho",
+      "category": "conceito filosófico",
+      "definition": "A manifestação concreta e perceptível do efeito latente.",
+      "context": "Um dos dez fatores que permeiam os dez mundos.",
+      "modules": [3],
+      "related": ["dez-fatores"],
+      "quotes": [],
+      "sourceRef": "Lista complementar fornecida pelo usuário; tema no TXT, linhas 474–500"
+    },
+    {
+      "id": "fator-consistencia",
+      "name": "Consistência do início ao fim",
+      "term": "nyo ze hon mak-ku kyo to",
+      "category": "conceito filosófico",
+      "definition": "A perfeita integração desses nove fatores em cada momento da vida, expressa pelo Myoho-renge-kyo.",
+      "context": "Um dos dez fatores que permeiam os dez mundos.",
+      "modules": [3],
+      "related": ["dez-fatores"],
+      "quotes": [],
+      "sourceRef": "Lista complementar fornecida pelo usuário; tema no TXT, linhas 474–500"
+    },
+    {
+      "id": "tres-dominios",
+      "name": "Três domínios da existência",
+      "category": "conceito filosófico",
+      "definition": "Domínio dos cinco componentes, domínio dos seres vivos e domínio do meio ambiente. O material os apresenta como as dimensões em que os dez mundos se manifestam.",
+      "context": "Com os dez fatores, integram a formulação de Ichinen Sanzen.",
+      "modules": [
+        3
+      ],
+      "related": [
+        "cinco-componentes",
+        "seres-vivos",
+        "meio-ambiente",
+        "ichinen-sanzen"
+      ],
+      "quotes": [],
+      "sourceRef": "TXT, linhas 471–499"
+    },
+    {
+      "id": "cinco-componentes",
+      "name": "Domínio dos cinco componentes",
+      "category": "conceito filosófico",
+      "definition": "Analisa funções físicas e psíquicas da vida por meio de forma, percepção, concepção, volição e consciência.",
+      "context": "Um dos três domínios; o TXT o distingue dos domínios dos seres vivos e do meio ambiente.",
+      "modules": [
+        3
+      ],
+      "related": [
+        "forma",
+        "percepcao",
+        "conceicao",
+        "volicao",
+        "consciencia",
+        "tres-dominios"
+      ],
+      "quotes": [],
+      "sourceRef": "TXT, linhas 474–499"
+    },
+    {
+      "id": "forma",
+      "name": "Forma",
+      "category": "conceito filosófico",
+      "definition": "Um dos cinco componentes citados no domínio dos cinco componentes.",
+      "context": "O TXT lista o termo, mas não oferece uma definição detalhada isolada.",
+      "modules": [
+        3
+      ],
+      "related": [
+        "cinco-componentes"
+      ],
+      "quotes": [],
+      "sourceRef": "TXT, linhas 474–499"
+    },
+    {
+      "id": "percepcao",
+      "name": "Percepção",
+      "category": "conceito filosófico",
+      "definition": "Um dos cinco componentes citados no domínio dos cinco componentes.",
+      "context": "O TXT lista o termo, mas não oferece uma definição detalhada isolada.",
+      "modules": [
+        3
+      ],
+      "related": [
+        "cinco-componentes"
+      ],
+      "quotes": [],
+      "sourceRef": "TXT, linhas 474–499"
+    },
+    {
+      "id": "conceicao",
+      "name": "Concepção",
+      "category": "conceito filosófico",
+      "definition": "Um dos cinco componentes citados no domínio dos cinco componentes.",
+      "context": "O TXT lista o termo, mas não oferece uma definição detalhada isolada.",
+      "modules": [
+        3
+      ],
+      "related": [
+        "cinco-componentes"
+      ],
+      "quotes": [],
+      "sourceRef": "TXT, linhas 474–499"
+    },
+    {
+      "id": "volicao",
+      "name": "Volição",
+      "category": "conceito filosófico",
+      "definition": "Um dos cinco componentes citados no domínio dos cinco componentes.",
+      "context": "O TXT lista o termo, mas não oferece uma definição detalhada isolada.",
+      "modules": [
+        3
+      ],
+      "related": [
+        "cinco-componentes"
+      ],
+      "quotes": [],
+      "sourceRef": "TXT, linhas 474–499"
+    },
+    {
+      "id": "consciencia",
+      "name": "Consciência",
+      "category": "conceito filosófico",
+      "definition": "Um dos cinco componentes citados no domínio dos cinco componentes.",
+      "context": "O TXT lista o termo, mas não oferece uma definição detalhada isolada.",
+      "modules": [
+        3
+      ],
+      "related": [
+        "cinco-componentes"
+      ],
+      "quotes": [],
+      "sourceRef": "TXT, linhas 474–499"
+    },
+    {
+      "id": "seres-vivos",
+      "name": "Domínio dos seres vivos",
+      "category": "conceito filosófico",
+      "definition": "Vê os seres vivos como indivíduos integrados que experimentam os dez mundos e vivem em inter-relação e influência recíproca.",
+      "context": "Um dos três domínios da existência.",
+      "modules": [
+        3
+      ],
+      "related": [
+        "tres-dominios",
+        "cinco-componentes",
+        "meio-ambiente"
+      ],
+      "quotes": [],
+      "sourceRef": "TXT, linhas 485–499"
+    },
+    {
+      "id": "meio-ambiente",
+      "name": "Domínio do meio ambiente",
+      "category": "conceito filosófico",
+      "definition": "Inclui formas de vida insensíveis, como montanhas, árvores, vegetação e rios. O material também afirma que pessoas e ambiente se influenciam.",
+      "context": "Um dos três domínios da existência.",
+      "modules": [
+        3
+      ],
+      "related": [
+        "tres-dominios",
+        "seres-vivos"
+      ],
+      "quotes": [],
+      "sourceRef": "TXT, linhas 491–499"
+    },
+    {
+      "id": "ichinen-sanzen",
+      "name": "Ichinen Sanzen",
+      "term": "Três mil mundos num único momento da vida",
+      "category": "princípio budista",
+      "definition": "Sistema filosófico que relaciona os dez mundos, sua possessão mútua, os dez fatores e os três domínios. O TXT distingue a formulação teórica de Tiantai da forma prática associada a Nichiren Daishonin, Nam-myoho-renge-kyo e Gohonzon.",
+      "context": "Explicado nos Módulos 2 e 3 como potencial de transformação em cada momento da vida.",
+      "modules": [
+        2,
+        3
+      ],
+      "related": [
+        "dez-mundos",
+        "possessao-mutua",
+        "dez-fatores",
+        "tres-dominios",
+        "nam-myoho-renge-kyo"
+      ],
+      "quotes": [],
+      "sourceRef": "TXT, linhas 298–302; 445–518"
+    },
+    {
+      "id": "estado-buda",
+      "name": "Estado de Buda",
+      "category": "princípio budista",
+      "definition": "Condição que, segundo o curso, existe como potencial em todas as pessoas e pode ser manifestada por meio da prática da fé.",
+      "context": "Relaciona-se a observar a mente, aos dez mundos, ao Gohonzon e à possibilidade universal de iluminação.",
+      "modules": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "related": [
+        "observar-mente",
+        "dez-mundos",
+        "gohonzon",
+        "daimoku",
+        "myo"
+      ],
+      "quotes": [],
+      "sourceRef": "TXT, linhas 304–316; 716–739"
+    },
+    {
+      "id": "nam-myoho-renge-kyo",
+      "name": "Nam-myoho-renge-kyo",
+      "category": "prática religiosa",
+      "definition": "Lei fundamental revelada por Nichiren Daishonin e recitada como daimoku. O material a relaciona à causa da iluminação.",
+      "context": "Aparece ao longo dos módulos como base da prática e como expressão das três grandes leis secretas.",
+      "modules": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        7
+      ],
+      "related": [
+        "daimoku",
+        "gohonzon",
+        "estado-buda",
+        "tres-leis",
+        "simultaneidade"
+      ],
+      "quotes": [],
+      "sourceRef": "TXT, linhas 32–56; 493–518; 808–866"
+    },
+    {
+      "id": "daimoku",
+      "name": "Daimoku",
+      "category": "prática religiosa",
+      "definition": "Recitação de Nam-myoho-renge-kyo. O texto a apresenta como prática com fé no Gohonzon e como causa fundamental da iluminação.",
+      "context": "Surge em todos os módulos, em especial nos conteúdos sobre simultaneidade, determinação e Myo.",
+      "modules": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        7
+      ],
+      "related": [
+        "nam-myoho-renge-kyo",
+        "gohonzon",
+        "simultaneidade",
+        "determinacao",
+        "myo"
+      ],
+      "quotes": [],
+      "sourceRef": "TXT, linhas 52–56; 596–612; 808–866"
+    },
+    {
+      "id": "pratica",
+      "name": "Prática budista",
+      "category": "prática religiosa",
+      "definition": "O curso destaca a prática diária, o estudo e a reflexão, junto do fortalecimento da fé. Em vários módulos, menciona gongyo, daimoku e propagação.",
+      "context": "Base recorrente para transformação pessoal e para o kosen-rufu.",
+      "modules": [
+        1,
+        3,
+        5,
+        7
+      ],
+      "related": [
+        "daimoku",
+        "gohonzon",
+        "transformacao",
+        "kosen-rufu"
+      ],
+      "quotes": [],
+      "sourceRef": "TXT, linhas 140–166; 612–693"
+    },
+    {
+      "id": "simultaneidade",
+      "name": "Simultaneidade de causa e efeito",
+      "category": "princípio budista",
+      "definition": "O módulo afirma que causa e efeito ocorrem juntos no momento da prática. Nam-myoho-renge-kyo é apresentado como causa fundamental e o estado de Buda como efeito imediato, ativado pela fé.",
+      "context": "Módulo 3 liga o princípio à ação presente e aos desafios da vida.",
+      "modules": [
+        3
+      ],
+      "related": [
+        "nam-myoho-renge-kyo",
+        "estado-buda",
+        "fé",
+        "determinacao"
+      ],
+      "quotes": [],
+      "sourceRef": "TXT, linhas 531–610"
+    },
+    {
+      "id": "fé",
+      "name": "Fé",
+      "category": "prática religiosa",
+      "definition": "Confiança no Gohonzon e empenho na prática, apresentada como elo que ativa a simultaneidade de causa e efeito.",
+      "context": "Relaciona oração, daimoku, ação e transformação.",
+      "modules": [
+        1,
+        2,
+        3,
+        5,
+        7
+      ],
+      "related": [
+        "gohonzon",
+        "daimoku",
+        "simultaneidade",
+        "determinacao"
+      ],
+      "quotes": [],
+      "sourceRef": "TXT, linhas 597–612"
+    },
+    {
+      "id": "determinacao",
+      "name": "Determinação (ichinen)",
+      "category": "prática religiosa",
+      "definition": "Atitude mental corajosa que nasce da decisão de transformar a condição de vida e criar um futuro de valor. O texto a relaciona à oração e à ação no momento presente.",
+      "context": "Módulo 3 destaca constância na prática e compromisso com uma missão.",
+      "modules": [
+        3
+      ],
+      "related": [
+        "niji",
+        "daimoku",
+        "fé",
+        "simultaneidade"
+      ],
+      "quotes": [],
+      "sourceRef": "TXT, linhas 614–693"
+    },
+    {
+      "id": "niji",
+      "name": "Niji",
+      "term": "Nesse momento",
+      "category": "prática religiosa",
+      "definition": "O termo é explicado como o momento de se levantar, orar e agir para transformar o carma e elevar a condição de vida.",
+      "context": "Ligado à determinação e à constância na prática.",
+      "modules": [
+        3
+      ],
+      "related": [
+        "determinacao",
+        "pratica",
+        "daimoku"
+      ],
+      "quotes": [],
+      "sourceRef": "TXT, linhas 640–658"
+    },
+    {
+      "id": "myo",
+      "name": "Myo",
+      "category": "princípio budista",
+      "definition": "O TXT apresenta três significados simultâneos: abrir a ilusão e revelar o potencial de Buda; ser dotado de todo o potencial; e reviver, isto é, sair do sofrimento para uma condição de felicidade.",
+      "context": "Tema dos Módulos 4 e 5; os três sentidos são ligados à recitação do daimoku.",
+      "modules": [
+        4,
+        5
+      ],
+      "related": [
+        "abrir",
+        "dotado-perfeicao",
+        "reviver",
+        "daimoku",
+        "estado-buda"
+      ],
+      "quotes": [],
+      "sourceRef": "TXT, linhas 703–716; 757–784"
+    },
+    {
+      "id": "abrir",
+      "name": "Abrir",
+      "category": "princípio budista",
+      "definition": "Um dos três significados de Myo: abrir a escuridão da ilusão para revelar a natureza de Buda.",
+      "context": "Parte do conjunto de três significados de Myo.",
+      "modules": [
+        4,
+        5
+      ],
+      "related": [
+        "myo",
+        "estado-buda",
+        "ilusoes"
+      ],
+      "quotes": [],
+      "sourceRef": "TXT, linhas 757–765"
+    },
+    {
+      "id": "dotado-perfeicao",
+      "name": "Dotado de perfeição",
+      "category": "princípio budista",
+      "definition": "Um dos três significados de Myo: cada pessoa é descrita como dotada de todo o potencial existente no cosmos.",
+      "context": "Parte do conjunto de três significados de Myo.",
+      "modules": [
+        4,
+        5
+      ],
+      "related": [
+        "myo",
+        "estado-buda"
+      ],
+      "quotes": [],
+      "sourceRef": "TXT, linhas 766–772"
+    },
+    {
+      "id": "reviver",
+      "name": "Reviver",
+      "category": "princípio budista",
+      "definition": "Um dos três significados de Myo: renascer de uma situação de sofrimento para uma condição de felicidade, despertando o estado de Buda que estava dormente.",
+      "context": "Parte do conjunto de três significados de Myo.",
+      "modules": [
+        4,
+        5
+      ],
+      "related": [
+        "myo",
+        "estado-buda",
+        "kudoku"
+      ],
+      "quotes": [],
+      "sourceRef": "TXT, linhas 773–784"
+    },
+    {
+      "id": "tres-leis",
+      "name": "Três grandes leis secretas",
+      "category": "princípio budista",
+      "definition": "Objeto de devoção, santuário e daimoku. O material diz que Nichiren Daishonin revelou e transmitiu a Lei fundamental do Sutra do Lótus.",
+      "context": "No Módulo 5, o curso relaciona cada lei a um tipo de aprendizado.",
+      "modules": [
+        5
+      ],
+      "related": [
+        "gohonzon",
+        "santuario",
+        "daimoku",
+        "preceitos",
+        "meditacao",
+        "sabedoria"
+      ],
+      "quotes": [],
+      "sourceRef": "TXT, linhas 801–866"
+    },
+    {
+      "id": "santuario",
+      "name": "Santuário do ensinamento essencial",
+      "category": "instituição ou local",
+      "definition": "Local onde o Gohonzon está consagrado, as pessoas praticam a fé e se empenham pelo kosen-rufu. O material inclui casas, sedes, centros culturais e residências que recebem reuniões.",
+      "context": "Uma das três grandes leis secretas; corresponde aos preceitos.",
+      "modules": [
+        5
+      ],
+      "related": [
+        "tres-leis",
+        "preceitos",
+        "gohonzon",
+        "kosen-rufu"
+      ],
+      "quotes": [],
+      "sourceRef": "TXT, linhas 824–866"
+    },
+    {
+      "id": "preceitos",
+      "name": "Preceitos",
+      "category": "princípio budista",
+      "definition": "Deixar de cometer maus atos, empenhar-se nos bons e proteger o ensinamento correto. O texto associa os preceitos ao santuário do ensinamento essencial.",
+      "context": "Um dos três tipos de aprendizado.",
+      "modules": [
+        5
+      ],
+      "related": [
+        "tres-leis",
+        "santuario"
+      ],
+      "quotes": [],
+      "sourceRef": "TXT, linhas 824–846"
+    },
+    {
+      "id": "meditacao",
+      "name": "Meditação",
+      "category": "princípio budista",
+      "definition": "Tipo de aprendizado associado no material ao objeto de devoção do ensinamento essencial.",
+      "context": "A fé no Gohonzon e a recitação são relacionadas ao despertar do estado de Buda e a uma mente inabalável.",
+      "modules": [
+        5
+      ],
+      "related": [
+        "tres-leis",
+        "gohonzon"
+      ],
+      "quotes": [],
+      "sourceRef": "TXT, linhas 824–849"
+    },
+    {
+      "id": "sabedoria",
+      "name": "Sabedoria",
+      "category": "princípio budista",
+      "definition": "Tipo de aprendizado associado ao daimoku do ensinamento essencial. O material diz que a prática com fé permite manifestar a condição do Buda e perceber o estado de Buda inerente a todos.",
+      "context": "Surge também como forma de saldar a gratidão ao mestre.",
+      "modules": [
+        5,
+        6
+      ],
+      "related": [
+        "tres-leis",
+        "daimoku",
+        "gratidão"
+      ],
+      "quotes": [],
+      "sourceRef": "TXT, linhas 824–851; 980–1005"
+    },
+    {
+      "id": "iluminacao-universal",
+      "name": "Iluminação universal",
+      "category": "princípio budista",
+      "definition": "O escrito estudado afirma a possibilidade de todas as pessoas atingirem o estado de Buda, incluindo mulheres e pessoas consideradas sem possibilidade de iluminação.",
+      "context": "Destaque do Módulo 4 sobre O Daimoku do Sutra do Lótus.",
+      "modules": [
+        4
+      ],
+      "related": [
+        "estado-buda",
+        "mulheres-iluminacao",
+        "menina-dragao"
+      ],
+      "quotes": [],
+      "sourceRef": "TXT, linhas 694–744"
+    },
+    {
+      "id": "mulheres-iluminacao",
+      "name": "Iluminação das mulheres",
+      "category": "princípio budista",
+      "definition": "O módulo afirma que o Sutra do Lótus possibilita às mulheres atingir o estado de Buda na forma em que se apresentam.",
+      "context": "Apresentado em O Daimoku do Sutra do Lótus e ligado à menina-dragão.",
+      "modules": [
+        4
+      ],
+      "related": [
+        "iluminacao-universal",
+        "menina-dragao"
+      ],
+      "quotes": [],
+      "sourceRef": "TXT, linhas 694–739"
+    },
+    {
+      "id": "menina-dragao",
+      "name": "Menina-dragão",
+      "category": "personagem ou narrativa",
+      "definition": "Personagem do capítulo Devadatta do Sutra do Lótus. A narrativa é usada para afirmar que todas as pessoas podem atingir o estado de Buda na forma em que se apresentam.",
+      "context": "Módulos 3, 4 e 7 recorrem à narrativa para tratar da iluminação e da superação de limites.",
+      "modules": [
+        3,
+        4,
+        7
+      ],
+      "related": [
+        "estado-buda",
+        "iluminacao-universal",
+        "determinacao"
+      ],
+      "quotes": [],
+      "sourceRef": "TXT, linhas 624–638; 1549–1586"
+    },
+    {
+      "id": "verdadeiro-aspecto",
+      "name": "Verdadeiro aspecto de todos os fenômenos",
+      "category": "princípio budista",
+      "definition": "O módulo o apresenta como essência fundamental da vida e relaciona-o ao potencial de todas as pessoas manifestarem o estado de Buda e à interconexão da vida.",
+      "context": "Parte do conjunto final do Módulo 5, junto da vida eterna do Buda e do kudoku.",
+      "modules": [
+        5
+      ],
+      "related": [
+        "vida-eterna",
+        "kudoku",
+        "estado-buda"
+      ],
+      "quotes": [],
+      "sourceRef": "TXT, linhas 877–908"
+    },
+    {
+      "id": "vida-eterna",
+      "name": "Vida eterna do Buda",
+      "category": "princípio budista",
+      "definition": "No resumo do módulo, indica que todas as pessoas são originalmente budas desde o remoto passado até o infinito futuro.",
+      "context": "Relacionado à consciência de potencial ilimitado e à transformação do carma.",
+      "modules": [
+        5
+      ],
+      "related": [
+        "verdadeiro-aspecto",
+        "kudoku",
+        "estado-buda"
+      ],
+      "quotes": [],
+      "sourceRef": "TXT, linhas 893–908"
+    },
+    {
+      "id": "kudoku",
+      "name": "Kudoku",
+      "term": "Benefício",
+      "category": "princípio budista",
+      "definition": "Resultados visíveis e invisíveis obtidos com a prática da fé; o material também o explica como eliminar o mal, cultivar o bem e alcançar o estado de Buda na forma em que se está.",
+      "context": "Apresentado como consequência de evidenciar o verdadeiro eu e a vida eterna do Buda.",
+      "modules": [
+        5
+      ],
+      "related": [
+        "verdadeiro-aspecto",
+        "vida-eterna",
+        "pratica",
+        "reviver"
+      ],
+      "quotes": [],
+      "sourceRef": "TXT, linhas 891–908"
+    },
+    {
+      "id": "gratidão",
+      "name": "Gratidão",
+      "category": "prática religiosa",
+      "definition": "O Módulo 6 apresenta a gratidão como reconhecimento recebido de mestres e outras pessoas, correspondido por estudo, sabedoria e ações em prol da felicidade alheia.",
+      "context": "Tema do escrito Saldar as Dívidas de Gratidão.",
+      "modules": [
+        6
+      ],
+      "related": [
+        "dozen-bo",
+        "mestre-discipulo",
+        "compaixao",
+        "sabedoria"
+      ],
+      "quotes": [],
+      "sourceRef": "TXT, linhas 960–1034"
+    },
+    {
+      "id": "dozen-bo",
+      "name": "Dozen-bo",
+      "category": "personagem histórico",
+      "definition": "Sacerdote do templo Seicho-ji que iniciou Nichiren Daishonin nos estudos budistas. O texto diz que Daishonin escreveu em gratidão após saber de sua morte.",
+      "context": "Contexto do escrito Saldar as Dívidas de Gratidão.",
+      "modules": [
+        6
+      ],
+      "related": [
+        "gratidão",
+        "nichiren-daishonin"
+      ],
+      "quotes": [],
+      "sourceRef": "TXT, linhas 966–976"
+    },
+    {
+      "id": "compaixao",
+      "name": "Compaixão budista",
+      "category": "princípio budista",
+      "definition": "O texto relaciona a dedicação aos outros a levar esperança e coragem e a contribuir para que as pessoas sejam felizes.",
+      "context": "Surge no resumo do Módulo 6 sobre saldar a gratidão.",
+      "modules": [
+        6,
+        7
+      ],
+      "related": [
+        "gratidão",
+        "kosen-rufu",
+        "transformacao"
+      ],
+      "quotes": [],
+      "sourceRef": "TXT, linhas 990–1004"
+    },
+    {
+      "id": "mestre-discipulo",
+      "name": "Unicidade de mestre e discípulo",
+      "term": "Shitei funi",
+      "category": "princípio budista",
+      "definition": "Relação em que mestre e discípulo compartilham a missão de conduzir pessoas à felicidade. O mestre abre caminho e ensina; o discípulo pratica, desenvolve e concretiza os princípios.",
+      "context": "O Módulo 7 liga a relação à sucessão, ao desenvolvimento dos discípulos e à continuidade do budismo.",
+      "modules": [
+        1,
+        6,
+        7
+      ],
+      "related": [
+        "makiguchi",
+        "josei-toda",
+        "daisaku-ikeda",
+        "kosen-rufu",
+        "indigo"
+      ],
+      "quotes": [],
+      "sourceRef": "TXT, linhas 1047–1147"
+    },
+    {
+      "id": "makiguchi",
+      "name": "Tsunesaburo Makiguchi",
+      "category": "personagem histórico",
+      "definition": "Educador e primeiro presidente da Soka Gakkai. O curso destaca seu trabalho sobre criação de valor e sua relação de mestre e discípulo com Josei Toda.",
+      "context": "Módulo 7 narra sua trajetória e situa 18 de novembro de 1930 como fundação da Soka Gakkai.",
+      "modules": [
+        2,
+        5,
+        7
+      ],
+      "related": [
+        "josei-toda",
+        "soka-gakkai",
+        "mestre-discipulo"
+      ],
+      "quotes": [],
+      "sourceRef": "TXT, linhas 1149–1192"
+    },
+    {
+      "id": "josei-toda",
+      "name": "Josei Toda",
+      "category": "personagem histórico",
+      "definition": "Segundo presidente da Soka Gakkai e discípulo de Makiguchi. O material destaca a reconstrução da organização, o objetivo de 750 mil famílias e a transferência da missão do kosen-rufu à juventude.",
+      "context": "Figura central nos Módulos 1, 6 e 7.",
+      "modules": [
+        1,
+        6,
+        7
+      ],
+      "related": [
+        "makiguchi",
+        "daisaku-ikeda",
+        "soka-gakkai",
+        "mestre-discipulo",
+        "kosen-rufu"
+      ],
+      "quotes": [],
+      "sourceRef": "TXT, linhas 1193–1249"
+    },
+    {
+      "id": "daisaku-ikeda",
+      "name": "Daisaku Ikeda",
+      "category": "personagem histórico",
+      "definition": "Terceiro presidente da Soka Gakkai. O material o apresenta como discípulo de Josei Toda e destaca iniciativas de paz, cultura e educação e a expansão internacional da organização.",
+      "context": "Figura recorrente nos sete módulos.",
+      "modules": [
+        1,
+        2,
+        3,
+        5,
+        7
+      ],
+      "related": [
+        "josei-toda",
+        "soka-gakkai",
+        "kosen-rufu",
+        "mestre-discipulo",
+        "revolucao-humana"
+      ],
+      "quotes": [],
+      "sourceRef": "TXT, linhas 1251–1323; 1440–1530"
+    },
+    {
+      "id": "soka-gakkai",
+      "name": "Soka Gakkai",
+      "category": "instituição",
+      "definition": "Organização formada em torno dos educadores Tsunesaburo Makiguchi e Josei Toda; o TXT situa sua fundação em 18 de novembro de 1930 e acompanha sua continuidade com Ikeda.",
+      "context": "Estrutura histórica do Módulo 7 e referência em vários módulos.",
+      "modules": [
+        1,
+        5,
+        7
+      ],
+      "related": [
+        "makiguchi",
+        "josei-toda",
+        "daisaku-ikeda",
+        "sgi",
+        "kosen-rufu"
+      ],
+      "quotes": [],
+      "sourceRef": "TXT, linhas 1168–1192; 1311–1323"
+    },
+    {
+      "id": "sgi",
+      "name": "Soka Gakkai Internacional",
+      "term": "SGI",
+      "category": "instituição",
+      "definition": "O TXT informa a fundação em 26 de janeiro de 1975, na ilha de Guam, com 150 representantes de 51 países e territórios; registra a SGI como ONG no ECOSOC desde 1983.",
+      "context": "Parte da expansão internacional narrada no Módulo 7.",
+      "modules": [
+        7
+      ],
+      "related": [
+        "soka-gakkai",
+        "daisaku-ikeda",
+        "kosen-rufu"
+      ],
+      "quotes": [],
+      "sourceRef": "TXT, linhas 1289–1312"
+    },
+    {
+      "id": "kosen-rufu",
+      "name": "Kosen-rufu",
+      "category": "princípio budista",
+      "definition": "Objetivo de propagação do budismo e de concretização da felicidade e da paz para todas as pessoas, conforme descrito no material.",
+      "context": "Conecta a prática pessoal à missão coletiva e à história da Soka Gakkai.",
+      "modules": [
+        1,
+        3,
+        5,
+        6,
+        7
+      ],
+      "related": [
+        "soka-gakkai",
+        "sgi",
+        "mestre-discipulo",
+        "pratica",
+        "compaixao"
+      ],
+      "quotes": [],
+      "sourceRef": "TXT, linhas 140–166; 849–866; 1311–1323"
+    },
+    {
+      "id": "revolucao-humana",
+      "name": "Revolução humana",
+      "category": "princípio budista",
+      "definition": "Transformação interior por meio da prática da fé, que o material relaciona à elevação da condição de vida e à possibilidade de influenciar outras pessoas, a sociedade e o ambiente.",
+      "context": "Tema dos Módulos 1, 3 e 7.",
+      "modules": [
+        1,
+        3,
+        7
+      ],
+      "related": [
+        "pratica",
+        "daimoku",
+        "transformacao",
+        "kosen-rufu",
+        "daisaku-ikeda"
+      ],
+      "quotes": [
+        {
+          "text": "Revolução humana não quer dizer se tornar outra pessoa; consiste em edificar uma vida plena de felicidade e satisfação.",
+          "attribution": "Josei Toda, citado no material",
+          "source": "TXT, linhas 1410–1420"
+        }
+      ],
+      "sourceRef": "TXT, linhas 1410–1439"
+    },
+    {
+      "id": "indigo",
+      "name": "Mais azul que o índigo",
+      "category": "metáfora",
+      "definition": "Metáfora de Nichiren Daishonin para o aperfeiçoamento da prática e da fé. Ikeda também a relaciona ao desenvolvimento de sucessores que possam superar seus predecessores.",
+      "context": "Fecha o Módulo 7 e associa crescimento pessoal à transmissão entre gerações.",
+      "modules": [
+        7
+      ],
+      "related": [
+        "mestre-discipulo",
+        "estado-buda",
+        "pratica",
+        "kosen-rufu"
+      ],
+      "quotes": [],
+      "sourceRef": "TXT, linhas 1532–1660"
+    },
+    {
+      "id": "cinco-diretrizes",
+      "name": "Cinco Diretrizes Eternas da Soka Gakkai",
+      "category": "princípio budista",
+      "definition": "Princípios que, segundo o texto, aprofundam a fé e orientam os membros para harmonia, felicidade, sucesso, saúde, longevidade e vitória.",
+      "context": "O TXT informa que as três primeiras foram apresentadas por Toda em dezembro de 1957 e as duas seguintes por Ikeda em dezembro de 2003.",
+      "modules": [
+        7
+      ],
+      "related": [
+        "soka-gakkai",
+        "josei-toda",
+        "daisaku-ikeda",
+        "uniao"
+      ],
+      "quotes": [],
+      "sourceRef": "TXT, linhas 1499–1508"
+    },
+    {
+      "id": "uniao",
+      "name": "Diferentes em corpo, unos em mente",
+      "category": "princípio budista",
+      "definition": "Princípio de união citado no material em relação à Constituição da Soka Gakkai e à realização do kosen-rufu.",
+      "context": "Módulo 7 relaciona a união à revolução humana e à continuidade da organização.",
+      "modules": [
+        7
+      ],
+      "related": [
+        "soka-gakkai",
+        "kosen-rufu",
+        "revolucao-humana"
+      ],
+      "quotes": [],
+      "sourceRef": "TXT, linhas 1503–1508; 1414–1420"
+    },
+    {
+      "id": "nichiren-daishonin",
+      "name": "Nichiren Daishonin",
+      "category": "personagem histórico",
+      "definition": "O curso o apresenta como quem revelou Nam-myoho-renge-kyo e estabeleceu a prática para os Últimos Dias da Lei.",
+      "context": "Referência central dos conteúdos doutrinários e dos escritos estudados.",
+      "modules": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "related": [
+        "nam-myoho-renge-kyo",
+        "gohonzon",
+        "dozen-bo",
+        "nikko-shonin"
+      ],
+      "quotes": [],
+      "sourceRef": "TXT, linhas 32–56; 290–316"
+    },
+    {
+      "id": "nikko-shonin",
+      "name": "Nikko Shonin",
+      "category": "personagem histórico",
+      "definition": "Discípulo e sucessor direto de Nichiren Daishonin. O material diz que coletou e transcreveu cartas do mestre, denominadas Gosho.",
+      "context": "Citado no contexto da continuidade histórica da relação de mestre e discípulo.",
+      "modules": [
+        7
+      ],
+      "related": [
+        "nichiren-daishonin",
+        "mestre-discipulo"
+      ],
+      "quotes": [],
+      "sourceRef": "TXT, linhas 1110–1144"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e-w1",
+      "from": "dez-mundos",
+      "to": "possessao-mutua",
+      "label": "cada um contém os demais",
+      "status": "explícita",
+      "sourceRef": "TXT, linhas 450–454"
+    },
+    {
+      "id": "e-w2",
+      "from": "possessao-mutua",
+      "to": "dez-fatores",
+      "label": "cem mundos pelos fatores",
+      "status": "explícita",
+      "sourceRef": "TXT, linha 302"
+    },
+    {
+      "id": "e-w3",
+      "from": "dez-fatores",
+      "to": "tres-dominios",
+      "label": "manifestam-se em três domínios",
+      "status": "explícita",
+      "sourceRef": "TXT, linhas 298–302"
+    },
+    {
+      "id": "e-w4",
+      "from": "tres-dominios",
+      "to": "ichinen-sanzen",
+      "label": "compõem três mil mundos",
+      "status": "explícita",
+      "sourceRef": "TXT, linhas 298–302; 464–484"
+    },
+    {
+      "id": "e-world-inferno",
+      "from": "dez-mundos",
+      "to": "mundo-inferno",
+      "label": "",
+      "description": "Inferno é um dos dez mundos.",
+      "status": "complementar fornecida pelo usuário",
+      "sourceRef": "dez-mundos.txt, linhas 2 e 26"
+    },
+    {
+      "id": "e-world-fome",
+      "from": "dez-mundos",
+      "to": "mundo-fome",
+      "label": "",
+      "description": "Fome é um dos dez mundos.",
+      "status": "complementar fornecida pelo usuário",
+      "sourceRef": "dez-mundos.txt, linhas 2 e 28"
+    },
+    {
+      "id": "e-world-animalidade",
+      "from": "dez-mundos",
+      "to": "mundo-animalidade",
+      "label": "",
+      "description": "Animalidade é um dos dez mundos.",
+      "status": "complementar fornecida pelo usuário",
+      "sourceRef": "dez-mundos.txt, linhas 2 e 30"
+    },
+    {
+      "id": "e-world-ira",
+      "from": "dez-mundos",
+      "to": "mundo-ira",
+      "label": "",
+      "description": "Ira é um dos dez mundos.",
+      "status": "complementar fornecida pelo usuário",
+      "sourceRef": "dez-mundos.txt, linhas 2 e 32"
+    },
+    {
+      "id": "e-world-tranquility",
+      "from": "dez-mundos",
+      "to": "mundo-tranquilidade",
+      "label": "",
+      "description": "Tranquilidade, também chamada Humanidade, é um dos dez mundos.",
+      "status": "complementar fornecida pelo usuário",
+      "sourceRef": "dez-mundos.txt, linhas 2 e 41"
+    },
+    {
+      "id": "e-world-joy",
+      "from": "dez-mundos",
+      "to": "mundo-alegria",
+      "label": "",
+      "description": "Alegria é um dos dez mundos.",
+      "status": "complementar fornecida pelo usuário",
+      "sourceRef": "dez-mundos.txt, linhas 2 e 43"
+    },
+    {
+      "id": "e-world-erudition",
+      "from": "dez-mundos",
+      "to": "mundo-erudicao",
+      "label": "",
+      "description": "Erudição é um dos dez mundos.",
+      "status": "complementar fornecida pelo usuário",
+      "sourceRef": "dez-mundos.txt, linhas 2 e 50"
+    },
+    {
+      "id": "e-world-absorption",
+      "from": "dez-mundos",
+      "to": "mundo-absorcao",
+      "label": "",
+      "description": "Absorção é um dos dez mundos.",
+      "status": "complementar fornecida pelo usuário",
+      "sourceRef": "dez-mundos.txt, linhas 2 e 52"
+    },
+    {
+      "id": "e-world-bodhisattva",
+      "from": "dez-mundos",
+      "to": "mundo-bodhisattva",
+      "label": "",
+      "description": "Bodhisattva é um dos dez mundos.",
+      "status": "complementar fornecida pelo usuário",
+      "sourceRef": "dez-mundos.txt, linhas 2 e 56"
+    },
+    {
+      "id": "e-world-buddha",
+      "from": "dez-mundos",
+      "to": "mundo-buda",
+      "label": "",
+      "description": "Buda é um dos dez mundos.",
+      "status": "complementar fornecida pelo usuário",
+      "sourceRef": "dez-mundos.txt, linhas 2 e 58"
+    },
+    {
+      "id": "e-factor-appearance",
+      "from": "dez-fatores",
+      "to": "fator-aparencia",
+      "label": "",
+      "description": "Aparência integra a lista complementar dos dez fatores.",
+      "status": "complementar fornecida pelo usuário",
+      "sourceRef": "Lista fornecida pelo usuário; TXT, linhas 474–500"
+    },
+    {
+      "id": "e-factor-nature",
+      "from": "dez-fatores",
+      "to": "fator-natureza",
+      "label": "",
+      "description": "Natureza integra a lista complementar dos dez fatores.",
+      "status": "complementar fornecida pelo usuário",
+      "sourceRef": "Lista fornecida pelo usuário; TXT, linhas 474–500"
+    },
+    {
+      "id": "e-factor-entity",
+      "from": "dez-fatores",
+      "to": "fator-entidade",
+      "label": "",
+      "description": "Entidade integra a lista complementar dos dez fatores.",
+      "status": "complementar fornecida pelo usuário",
+      "sourceRef": "Lista fornecida pelo usuário; TXT, linhas 474–500"
+    },
+    {
+      "id": "e-factor-power",
+      "from": "dez-fatores",
+      "to": "fator-poder",
+      "label": "",
+      "description": "Poder integra a lista complementar dos dez fatores.",
+      "status": "complementar fornecida pelo usuário",
+      "sourceRef": "Lista fornecida pelo usuário; TXT, linhas 474–500"
+    },
+    {
+      "id": "e-factor-influence",
+      "from": "dez-fatores",
+      "to": "fator-influencia",
+      "label": "",
+      "description": "Influência integra a lista complementar dos dez fatores.",
+      "status": "complementar fornecida pelo usuário",
+      "sourceRef": "Lista fornecida pelo usuário; TXT, linhas 474–500"
+    },
+    {
+      "id": "e-factor-inner-cause",
+      "from": "dez-fatores",
+      "to": "fator-causa-interna",
+      "label": "",
+      "description": "Causa interna integra a lista complementar dos dez fatores.",
+      "status": "complementar fornecida pelo usuário",
+      "sourceRef": "Lista fornecida pelo usuário; TXT, linhas 474–500"
+    },
+    {
+      "id": "e-factor-relation",
+      "from": "dez-fatores",
+      "to": "fator-relacao",
+      "label": "",
+      "description": "Relação integra a lista complementar dos dez fatores.",
+      "status": "complementar fornecida pelo usuário",
+      "sourceRef": "Lista fornecida pelo usuário; TXT, linhas 474–500"
+    },
+    {
+      "id": "e-factor-latent-effect",
+      "from": "dez-fatores",
+      "to": "fator-efeito-latente",
+      "label": "",
+      "description": "Efeito latente integra a lista complementar dos dez fatores.",
+      "status": "complementar fornecida pelo usuário",
+      "sourceRef": "Lista fornecida pelo usuário; TXT, linhas 474–500"
+    },
+    {
+      "id": "e-factor-manifest-effect",
+      "from": "dez-fatores",
+      "to": "fator-efeito-manifesto",
+      "label": "",
+      "description": "Efeito manifesto integra a lista complementar dos dez fatores.",
+      "status": "complementar fornecida pelo usuário",
+      "sourceRef": "Lista fornecida pelo usuário; TXT, linhas 474–500"
+    },
+    {
+      "id": "e-factor-consistency",
+      "from": "dez-fatores",
+      "to": "fator-consistencia",
+      "label": "",
+      "description": "Consistência do início ao fim integra a lista complementar dos dez fatores.",
+      "status": "complementar fornecida pelo usuário",
+      "sourceRef": "Lista fornecida pelo usuário; TXT, linhas 474–500"
+    },
+    {
+      "id": "e-domain1",
+      "from": "cinco-componentes",
+      "to": "forma",
+      "label": "inclui",
+      "status": "explícita",
+      "sourceRef": "TXT, linhas 474–479"
+    },
+    {
+      "id": "e-domain2",
+      "from": "cinco-componentes",
+      "to": "percepcao",
+      "label": "inclui",
+      "status": "explícita",
+      "sourceRef": "TXT, linhas 474–479"
+    },
+    {
+      "id": "e-domain3",
+      "from": "cinco-componentes",
+      "to": "conceicao",
+      "label": "inclui",
+      "status": "explícita",
+      "sourceRef": "TXT, linhas 474–479"
+    },
+    {
+      "id": "e-domain4",
+      "from": "cinco-componentes",
+      "to": "volicao",
+      "label": "inclui",
+      "status": "explícita",
+      "sourceRef": "TXT, linhas 474–479"
+    },
+    {
+      "id": "e-domain5",
+      "from": "cinco-componentes",
+      "to": "consciencia",
+      "label": "inclui",
+      "status": "explícita",
+      "sourceRef": "TXT, linhas 474–479"
+    },
+    {
+      "id": "e-domain6",
+      "from": "tres-dominios",
+      "to": "cinco-componentes",
+      "label": "um dos três domínios",
+      "status": "explícita",
+      "sourceRef": "TXT, linhas 471–479"
+    },
+    {
+      "id": "e-domain7",
+      "from": "tres-dominios",
+      "to": "seres-vivos",
+      "label": "um dos três domínios",
+      "status": "explícita",
+      "sourceRef": "TXT, linhas 471–490"
+    },
+    {
+      "id": "e-domain8",
+      "from": "tres-dominios",
+      "to": "meio-ambiente",
+      "label": "um dos três domínios",
+      "status": "explícita",
+      "sourceRef": "TXT, linhas 471–499"
+    },
+    {
+      "id": "e-domain9",
+      "from": "seres-vivos",
+      "to": "meio-ambiente",
+      "label": "influência recíproca",
+      "status": "explícita",
+      "sourceRef": "TXT, linhas 485–499"
+    },
+    {
+      "id": "e-laws1",
+      "from": "tres-leis",
+      "to": "santuario",
+      "label": "inclui santuário",
+      "status": "explícita",
+      "sourceRef": "TXT, linhas 810–824"
+    },
+    {
+      "id": "e-laws2",
+      "from": "tres-leis",
+      "to": "gohonzon",
+      "label": "inclui objeto de devoção",
+      "status": "explícita",
+      "sourceRef": "TXT, linhas 810–824"
+    },
+    {
+      "id": "e-laws3",
+      "from": "tres-leis",
+      "to": "daimoku",
+      "label": "inclui daimoku",
+      "status": "explícita",
+      "sourceRef": "TXT, linhas 810–824"
+    },
+    {
+      "id": "e-laws4",
+      "from": "santuario",
+      "to": "preceitos",
+      "label": "corresponde a",
+      "status": "explícita",
+      "sourceRef": "TXT, linhas 824–846"
+    },
+    {
+      "id": "e-laws5",
+      "from": "gohonzon",
+      "to": "meditacao",
+      "label": "corresponde a",
+      "status": "explícita",
+      "sourceRef": "TXT, linhas 824–849"
+    },
+    {
+      "id": "e-laws6",
+      "from": "daimoku",
+      "to": "sabedoria",
+      "label": "corresponde a",
+      "status": "explícita",
+      "sourceRef": "TXT, linhas 824–851"
+    },
+    {
+      "id": "e-poison1",
+      "from": "tres-venenos",
+      "to": "ilusoes",
+      "label": "causam ilusões do desejo",
+      "status": "explícita",
+      "sourceRef": "TXT, linhas 140–153"
+    },
+    {
+      "id": "e-poison2",
+      "from": "avareza",
+      "to": "fome",
+      "label": "resulta em",
+      "status": "explícita",
+      "sourceRef": "TXT, linha 119"
+    },
+    {
+      "id": "e-poison3",
+      "from": "estupidez",
+      "to": "peste",
+      "label": "resulta em",
+      "status": "explícita",
+      "sourceRef": "TXT, linha 119"
+    },
+    {
+      "id": "e-poison4",
+      "from": "ira",
+      "to": "guerra",
+      "label": "resulta em",
+      "status": "explícita",
+      "sourceRef": "TXT, linha 119"
+    },
+    {
+      "id": "e-poison5",
+      "from": "tres-calamidades",
+      "to": "transformacao",
+      "label": "",
+      "description": "Caminho de transformação apresentado no módulo.",
+      "status": "inferida a partir do texto",
+      "sourceRef": "TXT, linhas 119–166",
+      "labelOffsetY": -40
+    },
+    {
+      "id": "e-poison6",
+      "from": "ilusoes",
+      "to": "transformacao",
+      "label": "",
+      "description": "As ilusões aparecem como algo a atravessar no caminho de transformação.",
+      "status": "explícita",
+      "sourceRef": "TXT, linhas 140–153",
+      "labelOffsetY": 40
+    },
+    {
+      "id": "e-poison7",
+      "from": "transformacao",
+      "to": "pratica",
+      "label": "baseia-se em",
+      "status": "explícita",
+      "sourceRef": "TXT, linhas 150–166"
+    },
+    {
+      "id": "e-poison8",
+      "from": "tres-venenos",
+      "to": "avareza",
+      "label": "",
+      "description": "Avareza integra a lista dos três venenos.",
+      "status": "explícita",
+      "sourceRef": "TXT, linhas 109–112"
+    },
+    {
+      "id": "e-poison9",
+      "from": "tres-venenos",
+      "to": "ira",
+      "label": "",
+      "description": "Ira integra a lista dos três venenos.",
+      "status": "explícita",
+      "sourceRef": "TXT, linhas 109–112"
+    },
+    {
+      "id": "e-poison10",
+      "from": "tres-venenos",
+      "to": "estupidez",
+      "label": "",
+      "description": "Estupidez integra a lista dos três venenos.",
+      "status": "explícita",
+      "sourceRef": "TXT, linhas 109–112"
+    },
+    {
+      "id": "e-poison11",
+      "from": "tres-calamidades",
+      "to": "fome",
+      "label": "",
+      "description": "Fome integra a lista das três calamidades.",
+      "status": "explícita",
+      "sourceRef": "TXT, linha 119"
+    },
+    {
+      "id": "e-poison12",
+      "from": "tres-calamidades",
+      "to": "peste",
+      "label": "",
+      "description": "Peste integra a lista das três calamidades.",
+      "status": "explícita",
+      "sourceRef": "TXT, linha 119"
+    },
+    {
+      "id": "e-poison13",
+      "from": "tres-calamidades",
+      "to": "guerra",
+      "label": "",
+      "description": "Guerra integra a lista das três calamidades.",
+      "status": "explícita",
+      "sourceRef": "TXT, linha 119"
+    },
+    {
+      "id": "e-poison14",
+      "from": "ilusoes",
+      "to": "tres-calamidades",
+      "label": "",
+      "description": "Conexão pontilhada da sequência de síntese do mapa.",
+      "status": "inferida a partir do texto",
+      "sourceRef": "TXT, linhas 119–153",
+      "route": "arco-superior"
+    },
+    {
+      "id": "e-mind1",
+      "from": "observar-mente",
+      "to": "dez-mundos",
+      "label": "reconhece na própria vida",
+      "status": "explícita",
+      "sourceRef": "TXT, linhas 311–316"
+    },
+    {
+      "id": "e-mind2",
+      "from": "gohonzon",
+      "to": "dez-mundos",
+      "label": "representa",
+      "status": "explícita",
+      "sourceRef": "TXT, linhas 356–369"
+    },
+    {
+      "id": "e-mind3",
+      "from": "gohonzon",
+      "to": "estado-buda",
+      "label": "possibilita manifestar",
+      "status": "explícita",
+      "sourceRef": "TXT, linhas 356–369"
+    },
+    {
+      "id": "e-mind4",
+      "from": "daimoku",
+      "to": "estado-buda",
+      "label": "revela potencial",
+      "status": "explícita",
+      "sourceRef": "TXT, linhas 311–316"
+    },
+    {
+      "id": "e-mind5",
+      "from": "dez-mundos",
+      "to": "ichinen-sanzen",
+      "label": "integram",
+      "status": "explícita",
+      "sourceRef": "TXT, linhas 298–302"
+    },
+    {
+      "id": "e-cause1",
+      "from": "nam-myoho-renge-kyo",
+      "to": "estado-buda",
+      "label": "causa fundamental",
+      "status": "explícita",
+      "sourceRef": "TXT, linhas 597–606"
+    },
+    {
+      "id": "e-cause2",
+      "from": "fé",
+      "to": "simultaneidade",
+      "label": "ativa o princípio",
+      "status": "explícita",
+      "sourceRef": "TXT, linhas 597–606"
+    },
+    {
+      "id": "e-cause3",
+      "from": "determinacao",
+      "to": "niji",
+      "label": "inicia oração e ação",
+      "status": "explícita",
+      "sourceRef": "TXT, linhas 640–658"
+    },
+    {
+      "id": "e-cause4",
+      "from": "niji",
+      "to": "pratica",
+      "label": "levantar-se nesse momento",
+      "status": "explícita",
+      "sourceRef": "TXT, linhas 640–658"
+    },
+    {
+      "id": "e-myo1",
+      "from": "myo",
+      "to": "abrir",
+      "label": "um significado",
+      "status": "explícita",
+      "sourceRef": "TXT, linhas 757–765"
+    },
+    {
+      "id": "e-myo2",
+      "from": "myo",
+      "to": "dotado-perfeicao",
+      "label": "um significado",
+      "status": "explícita",
+      "sourceRef": "TXT, linhas 766–772"
+    },
+    {
+      "id": "e-myo3",
+      "from": "myo",
+      "to": "reviver",
+      "label": "um significado",
+      "status": "explícita",
+      "sourceRef": "TXT, linhas 773–784"
+    },
+    {
+      "id": "e-myo4",
+      "from": "daimoku",
+      "to": "myo",
+      "label": "contém os três sentidos",
+      "status": "explícita",
+      "sourceRef": "TXT, linhas 781–784"
+    },
+    {
+      "id": "e-benefit1",
+      "from": "verdadeiro-aspecto",
+      "to": "vida-eterna",
+      "label": "relacionados na síntese do módulo",
+      "status": "explícita",
+      "sourceRef": "TXT, linhas 891–908"
+    },
+    {
+      "id": "e-benefit2",
+      "from": "vida-eterna",
+      "to": "kudoku",
+      "label": "prática evidencia benefício",
+      "status": "explícita",
+      "sourceRef": "TXT, linhas 891–908"
+    },
+    {
+      "id": "e-gratitude1",
+      "from": "dozen-bo",
+      "to": "gratidão",
+      "label": "recebe gratidão",
+      "status": "explícita",
+      "sourceRef": "TXT, linhas 966–976"
+    },
+    {
+      "id": "e-gratitude2",
+      "from": "mestre-discipulo",
+      "to": "gratidão",
+      "label": "motivação para saldar",
+      "status": "explícita",
+      "sourceRef": "TXT, linhas 980–1005"
+    },
+    {
+      "id": "e-gratitude3",
+      "from": "gratidão",
+      "to": "sabedoria",
+      "label": "retribui com estudo",
+      "status": "explícita",
+      "sourceRef": "TXT, linhas 985–1005"
+    },
+    {
+      "id": "e-gratitude4",
+      "from": "gratidão",
+      "to": "compaixao",
+      "label": "age pela felicidade alheia",
+      "status": "explícita",
+      "sourceRef": "TXT, linhas 990–1005"
+    },
+    {
+      "id": "e-succession1",
+      "from": "makiguchi",
+      "to": "josei-toda",
+      "label": "mestre e discípulo",
+      "status": "explícita",
+      "sourceRef": "TXT, linhas 1180–1210"
+    },
+    {
+      "id": "e-succession2",
+      "from": "josei-toda",
+      "to": "daisaku-ikeda",
+      "label": "mestre e discípulo",
+      "status": "explícita",
+      "sourceRef": "TXT, linhas 1230–1291"
+    },
+    {
+      "id": "e-succession3",
+      "from": "daisaku-ikeda",
+      "to": "soka-gakkai",
+      "label": "lidera e expande",
+      "status": "explícita",
+      "sourceRef": "TXT, linhas 1280–1323"
+    },
+    {
+      "id": "e-succession4",
+      "from": "soka-gakkai",
+      "to": "sgi",
+      "label": "expansão internacional",
+      "status": "explícita",
+      "sourceRef": "TXT, linhas 1289–1312"
+    },
+    {
+      "id": "e-succession5",
+      "from": "mestre-discipulo",
+      "to": "kosen-rufu",
+      "label": "compartilha missão",
+      "status": "explícita",
+      "sourceRef": "TXT, linhas 1047–1100"
+    },
+    {
+      "id": "e-succession6",
+      "from": "indigo",
+      "to": "mestre-discipulo",
+      "label": "transmite e supera",
+      "status": "explícita",
+      "sourceRef": "TXT, linhas 1586–1617"
+    },
+    {
+      "id": "e-succession7",
+      "from": "revolucao-humana",
+      "to": "kosen-rufu",
+      "label": "transformação individual e social",
+      "status": "explícita",
+      "sourceRef": "TXT, linhas 1410–1439"
+    },
+    {
+      "id": "e-zuiho1",
+      "from": "zuiho-bini",
+      "to": "keho",
+      "label": "preserva a essência",
+      "status": "explícita",
+      "sourceRef": "TXT, linhas 198–203"
+    },
+    {
+      "id": "e-zuiho2",
+      "from": "zuiho-bini",
+      "to": "kegui",
+      "label": "adapta formalidades",
+      "status": "explícita",
+      "sourceRef": "TXT, linhas 198–203"
+    },
+    {
+      "id": "e-zuiho3",
+      "from": "keho",
+      "to": "gohonzon",
+      "label": "inclui fé em",
+      "status": "explícita",
+      "sourceRef": "TXT, linhas 202–203"
+    }
+  ],
+  "graphs": [
+    {
+      "id": "ichinen",
+      "title": "Ichinen Sanzen",
+      "theme": "Estrutura da vida",
+      "goal": "Mostrar a sequência, detalhar os dez fatores e separar a conta que resulta em três mil mundos.",
+      "modules": [
+        2,
+        3
+      ],
+      "nodes": [
+        "dez-mundos",
+        "mundo-inferno",
+        "mundo-fome",
+        "mundo-animalidade",
+        "mundo-ira",
+        "mundo-tranquilidade",
+        "mundo-alegria",
+        "mundo-erudicao",
+        "mundo-absorcao",
+        "mundo-bodhisattva",
+        "mundo-buda",
+        "possessao-mutua",
+        "dez-fatores",
+        "fator-aparencia",
+        "fator-natureza",
+        "fator-entidade",
+        "fator-poder",
+        "fator-influencia",
+        "fator-causa-interna",
+        "fator-relacao",
+        "fator-efeito-latente",
+        "fator-efeito-manifesto",
+        "fator-consistencia",
+        "tres-dominios",
+        "cinco-componentes",
+        "seres-vivos",
+        "meio-ambiente",
+        "ichinen-sanzen"
+      ],
+      "edges": [
+        "e-w1",
+        "e-w2",
+        "e-w3",
+        "e-w4",
+        "e-world-inferno",
+        "e-world-fome",
+        "e-world-animalidade",
+        "e-world-ira",
+        "e-world-tranquility",
+        "e-world-joy",
+        "e-world-erudition",
+        "e-world-absorption",
+        "e-world-bodhisattva",
+        "e-world-buddha",
+        "e-factor-appearance",
+        "e-factor-nature",
+        "e-factor-entity",
+        "e-factor-power",
+        "e-factor-influence",
+        "e-factor-inner-cause",
+        "e-factor-relation",
+        "e-factor-latent-effect",
+        "e-factor-manifest-effect",
+        "e-factor-consistency",
+        "e-domain6",
+        "e-domain7",
+        "e-domain8"
+      ],
+      "equation": {
+        "title": "Cálculo dos três mil mundos",
+        "lines": [
+          "10 mundos × 10 da possessão mútua = 100",
+          "100 × 10 fatores = 1.000",
+          "1.000 × 3 domínios = 3.000"
+        ]
+      },
+      "sourceRef": "TRILHA SOKA.txt, linhas 298–302; 445–500; dez-mundos.txt, linhas 1–58"
+    },
+    {
+      "id": "tres-leis",
+      "title": "Três grandes leis e aprendizados",
+      "theme": "Prática budista",
+      "goal": "Exibir as três leis e as correspondências gerais explicitadas com preceitos, meditação e sabedoria.",
+      "modules": [
+        5
+      ],
+      "nodes": [
+        "tres-leis",
+        "santuario",
+        "gohonzon",
+        "daimoku",
+        "preceitos",
+        "meditacao",
+        "sabedoria"
+      ],
+      "edges": [
+        "e-laws1",
+        "e-laws2",
+        "e-laws3",
+        "e-laws4",
+        "e-laws5",
+        "e-laws6"
+      ],
+      "sourceRef": "TXT, linhas 801–851"
+    },
+    {
+      "id": "venenos",
+      "title": "Venenos, ilusões e calamidades",
+      "theme": "Transformação",
+      "goal": "Separar as três relações veneno-calamidade descritas no TXT e mostrar o caminho de transformação apresentado pelo módulo.",
+      "modules": [
+        1
+      ],
+      "nodes": [
+        "tres-venenos",
+        "avareza",
+        "ira",
+        "estupidez",
+        "ilusoes",
+        "tres-calamidades",
+        "fome",
+        "peste",
+        "guerra",
+        "transformacao",
+        "pratica"
+      ],
+      "edges": [
+        "e-poison1",
+        "e-poison2",
+        "e-poison3",
+        "e-poison4",
+        "e-poison5",
+        "e-poison6",
+        "e-poison7",
+        "e-poison8",
+        "e-poison9",
+        "e-poison10",
+        "e-poison11",
+        "e-poison12",
+        "e-poison13",
+        "e-poison14"
+      ],
+      "sourceRef": "TXT, linhas 109–166"
+    },
+    {
+      "id": "dominios",
+      "title": "Cinco componentes e três domínios",
+      "theme": "Estrutura da vida",
+      "goal": "Distinguir o conjunto dos cinco componentes dos outros dois domínios da existência.",
+      "modules": [
+        3
+      ],
+      "nodes": [
+        "tres-dominios",
+        "cinco-componentes",
+        "forma",
+        "percepcao",
+        "conceicao",
+        "volicao",
+        "consciencia",
+        "seres-vivos",
+        "meio-ambiente"
+      ],
+      "edges": [
+        "e-domain1",
+        "e-domain2",
+        "e-domain3",
+        "e-domain4",
+        "e-domain5",
+        "e-domain6",
+        "e-domain7",
+        "e-domain8",
+        "e-domain9"
+      ],
+      "sourceRef": "TXT, linhas 471–499"
+    },
+    {
+      "id": "observar",
+      "title": "Observar a mente e o Gohonzon",
+      "theme": "Prática budista",
+      "goal": "Ligar observar a mente, os dez mundos, o Gohonzon e a manifestação do estado de Buda.",
+      "modules": [
+        2,
+        3
+      ],
+      "nodes": [
+        "observar-mente",
+        "gohonzon",
+        "dez-mundos",
+        "estado-buda",
+        "daimoku",
+        "ichinen-sanzen"
+      ],
+      "edges": [
+        "e-mind1",
+        "e-mind2",
+        "e-mind3",
+        "e-mind4",
+        "e-mind5"
+      ],
+      "sourceRef": "TXT, linhas 291–316; 356–369"
+    },
+    {
+      "id": "causa",
+      "title": "Causa, fé e ação no presente",
+      "theme": "Prática budista",
+      "goal": "Resumir as relações entre daimoku, fé, simultaneidade, determinação e niji.",
+      "modules": [
+        3
+      ],
+      "nodes": [
+        "nam-myoho-renge-kyo",
+        "fé",
+        "simultaneidade",
+        "estado-buda",
+        "determinacao",
+        "niji",
+        "pratica"
+      ],
+      "edges": [
+        "e-cause1",
+        "e-cause2",
+        "e-cause3",
+        "e-cause4"
+      ],
+      "sourceRef": "TXT, linhas 531–658"
+    },
+    {
+      "id": "myo",
+      "title": "Os três significados de Myo",
+      "theme": "Prática budista",
+      "goal": "Apresentar abrir, dotado de perfeição e reviver como sentidos simultâneos de Myo.",
+      "modules": [
+        4,
+        5
+      ],
+      "nodes": [
+        "myo",
+        "abrir",
+        "dotado-perfeicao",
+        "reviver",
+        "daimoku",
+        "estado-buda"
+      ],
+      "edges": [
+        "e-myo1",
+        "e-myo2",
+        "e-myo3",
+        "e-myo4"
+      ],
+      "sourceRef": "TXT, linhas 703–784"
+    },
+    {
+      "id": "beneficio",
+      "title": "Verdadeiro aspecto, vida eterna e kudoku",
+      "theme": "Estrutura da vida",
+      "goal": "Acompanhar o conjunto final do Módulo 5 conforme sintetizado no próprio material.",
+      "modules": [
+        5
+      ],
+      "nodes": [
+        "verdadeiro-aspecto",
+        "vida-eterna",
+        "kudoku",
+        "estado-buda",
+        "pratica"
+      ],
+      "edges": [
+        "e-benefit1",
+        "e-benefit2"
+      ],
+      "sourceRef": "TXT, linhas 877–908"
+    },
+    {
+      "id": "gratidao",
+      "title": "Gratidão, sabedoria e compaixão",
+      "theme": "Relações humanas",
+      "goal": "Mostrar como o material liga o escrito, a gratidão ao mestre, o estudo e a dedicação às pessoas.",
+      "modules": [
+        6
+      ],
+      "nodes": [
+        "dozen-bo",
+        "gratidão",
+        "mestre-discipulo",
+        "sabedoria",
+        "compaixao",
+        "kosen-rufu"
+      ],
+      "edges": [
+        "e-gratitude1",
+        "e-gratitude2",
+        "e-gratitude3",
+        "e-gratitude4"
+      ],
+      "sourceRef": "TXT, linhas 966–1005"
+    },
+    {
+      "id": "sucessao",
+      "title": "Mestre, discípulo e continuidade",
+      "theme": "Relações humanas",
+      "goal": "Reunir os Três Mestres Soka, a instituição e as ideias de sucessão presentes no módulo.",
+      "modules": [
+        7
+      ],
+      "nodes": [
+        "makiguchi",
+        "josei-toda",
+        "daisaku-ikeda",
+        "soka-gakkai",
+        "sgi",
+        "mestre-discipulo",
+        "indigo",
+        "kosen-rufu",
+        "revolucao-humana"
+      ],
+      "edges": [
+        "e-succession1",
+        "e-succession2",
+        "e-succession3",
+        "e-succession4",
+        "e-succession5",
+        "e-succession6",
+        "e-succession7"
+      ],
+      "sourceRef": "TXT, linhas 1149–1323; 1532–1660"
+    },
+    {
+      "id": "zuiho",
+      "title": "Adaptação cultural: essência e forma",
+      "theme": "Prática budista",
+      "goal": "Distinguir os princípios preservados das formas que se adaptam ao local e à época.",
+      "modules": [
+        1
+      ],
+      "nodes": [
+        "zuiho-bini",
+        "keho",
+        "kegui",
+        "gohonzon",
+        "nam-myoho-renge-kyo"
+      ],
+      "edges": [
+        "e-zuiho1",
+        "e-zuiho2",
+        "e-zuiho3"
+      ],
+      "sourceRef": "TXT, linhas 189–213"
+    }
+  ],
+  "timeline": [
+    {
+      "id": "n1279",
+      "date": "1279",
+      "person": "Nichiren Daishonin",
+      "title": "Estabelecimento do Gohonzon",
+      "description": "O texto estudado no Módulo 2 diz que o escrito descreveu o objeto de devoção que Daishonin estabeleceria alguns anos depois, em 1279.",
+      "importance": "Relaciona o escrito sobre observar a mente ao objeto de devoção.",
+      "sourceRef": "TXT, linha 290",
+      "module": 2
+    },
+    {
+      "id": "m1871",
+      "date": "06 de junho de 1871",
+      "person": "Tsunesaburo Makiguchi",
+      "title": "Nascimento",
+      "description": "Nasce na província de Niigata, Japão.",
+      "importance": "Início da trajetória do primeiro presidente da Soka Gakkai apresentada no curso.",
+      "sourceRef": "TXT, linhas 1153–1154",
+      "module": 7
+    },
+    {
+      "id": "m1889",
+      "date": "1889",
+      "person": "Tsunesaburo Makiguchi",
+      "title": "Forma-se professor",
+      "description": "Após frequentar a Escola Normal de Hokkaido, torna-se professor aos 18 anos.",
+      "importance": "Marca sua formação e início de atuação educacional.",
+      "sourceRef": "TXT, linhas 1156–1157",
+      "module": 7
+    },
+    {
+      "id": "m1900",
+      "date": "11 de fevereiro de 1900",
+      "person": "Josei Toda",
+      "title": "Nascimento",
+      "description": "Nasce na província de Ishikawa, Japão.",
+      "importance": "Início da trajetória do segundo presidente da Soka Gakkai.",
+      "sourceRef": "TXT, linhas 1195–1196",
+      "module": 7
+    },
+    {
+      "id": "m1903",
+      "date": "1903",
+      "person": "Tsunesaburo Makiguchi",
+      "title": "Publica Geografia da Vida Humana",
+      "description": "Publica sua primeira obra em Tóquio.",
+      "importance": "O curso destaca sua produção como educador e autor.",
+      "sourceRef": "TXT, linhas 1159–1160",
+      "module": 7
+    },
+    {
+      "id": "m1913",
+      "date": "1913",
+      "person": "Tsunesaburo Makiguchi",
+      "title": "Torna-se diretor escolar",
+      "description": "Assume a direção de uma escola de ensino fundamental em Tóquio.",
+      "importance": "Durante sua atuação como diretor, conhece Josei Toda.",
+      "sourceRef": "TXT, linhas 1162–1163; 1180–1182",
+      "module": 7
+    },
+    {
+      "id": "t1917",
+      "date": "1917",
+      "person": "Josei Toda",
+      "title": "Forma-se professor",
+      "description": "Forma-se professor e leciona em uma escola de ensino fundamental em Hokkaido.",
+      "importance": "Início de sua trajetória educacional descrita no módulo.",
+      "sourceRef": "TXT, linhas 1198–1199",
+      "module": 7
+    },
+    {
+      "id": "m1920",
+      "date": "1920",
+      "person": "Josei Toda; Tsunesaburo Makiguchi",
+      "title": "Encontro em Tóquio",
+      "description": "Toda muda-se para Tóquio, conhece Makiguchi e começam a trabalhar juntos.",
+      "importance": "Forma o vínculo de mestre e discípulo que estrutura a narrativa do módulo.",
+      "sourceRef": "TXT, linhas 1201–1202",
+      "module": 7
+    },
+    {
+      "id": "m1928",
+      "date": "1928",
+      "person": "Tsunesaburo Makiguchi; Josei Toda",
+      "title": "Conversão ao Budismo Nichiren",
+      "description": "Makiguchi e Toda convertem-se ao Budismo de Nichiren Daishonin. O TXT informa também que 1928 é o ano de nascimento de Ikeda.",
+      "importance": "O material apresenta a conversão dos dois educadores como parte da trajetória da organização.",
+      "sourceRef": "TXT, linhas 1165–1166; 1204–1205; 1319",
+      "module": 7
+    },
+    {
+      "id": "i1928",
+      "date": "2 de janeiro de 1928",
+      "person": "Daisaku Ikeda",
+      "title": "Nascimento",
+      "description": "Nasce em Tóquio, Japão.",
+      "importance": "Início da trajetória do terceiro presidente da Soka Gakkai.",
+      "sourceRef": "TXT, linhas 1254–1255",
+      "module": 7
+    },
+    {
+      "id": "m1930",
+      "date": "18 de novembro de 1930",
+      "person": "Tsunesaburo Makiguchi; Josei Toda",
+      "title": "Publicação e fundação da Soka Gakkai",
+      "description": "Makiguchi publica o primeiro volume de Sistema Pedagógico de Criação de Valor, com Toda como editor-impressor. A data é considerada a fundação da Soka Gakkai.",
+      "importance": "O TXT trata a publicação como marco de fundação da organização.",
+      "sourceRef": "TXT, linhas 1168–1169; 1185–1192",
+      "module": 7
+    },
+    {
+      "id": "i1937",
+      "date": "1937–1947",
+      "person": "Daisaku Ikeda",
+      "title": "Infância e adolescência durante a guerra",
+      "description": "O texto relata que Ikeda vivenciou a Guerra Sino-Japonesa aos 9 anos e a Guerra do Pacífico aos 13; a morte do irmão em batalha fortaleceu seu desejo de paz.",
+      "importance": "O curso relaciona essa experiência ao compromisso posterior com a paz.",
+      "sourceRef": "TXT, linhas 1257–1261",
+      "module": 7
+    },
+    {
+      "id": "m1943",
+      "date": "6 de julho de 1943",
+      "person": "Tsunesaburo Makiguchi; Josei Toda",
+      "title": "Prisões durante o militarismo",
+      "description": "Makiguchi e Toda são presos por não aceitarem a imposição religiosa do governo militarista japonês.",
+      "importance": "O texto associa a prisão à defesa de suas convicções religiosas.",
+      "sourceRef": "TXT, linhas 1171–1172; 1207–1208; 1319",
+      "module": 7
+    },
+    {
+      "id": "m1944",
+      "date": "18 de novembro de 1944",
+      "person": "Tsunesaburo Makiguchi",
+      "title": "Falecimento na prisão",
+      "description": "Makiguchi falece aos 73 anos na prisão, em Tóquio.",
+      "importance": "O curso narra que Toda assume a continuidade do trabalho iniciado por seu mestre.",
+      "sourceRef": "TXT, linhas 1174–1175; 1233–1238",
+      "module": 7
+    },
+    {
+      "id": "i1947a",
+      "date": "14 de agosto de 1947",
+      "person": "Daisaku Ikeda; Josei Toda",
+      "title": "Primeiro encontro",
+      "description": "Ikeda encontra Toda em uma reunião de palestra da Soka Gakkai e percebe nele alguém em quem poderia confiar.",
+      "importance": "O encontro inicia a relação de mestre e discípulo narrada no módulo.",
+      "sourceRef": "TXT, linhas 1262–1263",
+      "module": 7
+    },
+    {
+      "id": "i1947b",
+      "date": "24 de agosto de 1947",
+      "person": "Daisaku Ikeda",
+      "title": "Conversão ao Budismo Nichiren",
+      "description": "Ikeda converte-se aos 19 anos; o texto informa que Toda tinha 47.",
+      "importance": "Marca o início de sua prática budista no relato do curso.",
+      "sourceRef": "TXT, linhas 1265–1266",
+      "module": 7
+    },
+    {
+      "id": "t1945",
+      "date": "3 de julho de 1945",
+      "person": "Josei Toda",
+      "title": "Libertação e reconstrução da organização",
+      "description": "Toda é libertado, torna-se diretor-geral da Soka Kyoiku Gakkai e altera o nome da organização para Soka Gakkai.",
+      "importance": "O TXT destaca o início da reconstrução após a prisão e a morte de Makiguchi.",
+      "sourceRef": "TXT, linhas 1210–1211",
+      "module": 7
+    },
+    {
+      "id": "i1950",
+      "date": "1950",
+      "person": "Daisaku Ikeda; Josei Toda",
+      "title": "Aulas particulares de Toda",
+      "description": "Ikeda recebe aulas de Toda sobre diversos assuntos, experiência que posteriormente chamou de Universidade Toda.",
+      "importance": "Segundo o texto, essas aulas prepararam Ikeda para dialogar com personalidades.",
+      "sourceRef": "TXT, linhas 1268–1269",
+      "module": 7
+    },
+    {
+      "id": "t1951apr",
+      "date": "20 de abril de 1951",
+      "person": "Josei Toda",
+      "title": "Inicia Revolução Humana",
+      "description": "Inicia a publicação em série do romance no jornal Seikyo Shimbun.",
+      "importance": "A obra dá nome ao conceito que o curso apresenta como legado de Toda.",
+      "sourceRef": "TXT, linhas 1213–1214",
+      "module": 7
+    },
+    {
+      "id": "t1951may",
+      "date": "3 de maio de 1951",
+      "person": "Josei Toda",
+      "title": "Assume a presidência",
+      "description": "Torna-se o segundo presidente da Soka Gakkai.",
+      "importance": "A partir da presidência, conduz a reconstrução e a expansão da organização.",
+      "sourceRef": "TXT, linhas 1216–1217",
+      "module": 7
+    },
+    {
+      "id": "i1952",
+      "date": "Janeiro de 1952",
+      "person": "Daisaku Ikeda",
+      "title": "Lidera atividades no distrito Kamata",
+      "description": "Toda designa Ikeda para liderar as atividades de propagação no distrito Kamata.",
+      "importance": "O curso apresenta esse desafio como parte da formação de Ikeda.",
+      "sourceRef": "TXT, linhas 1271–1272",
+      "module": 7
+    },
+    {
+      "id": "i1952feb",
+      "date": "Fevereiro de 1952",
+      "person": "Daisaku Ikeda",
+      "title": "201 famílias convertidas",
+      "description": "Em um mês, Ikeda alcança a marca de 201 famílias convertidas.",
+      "importance": "Resultado citado no relato de suas atividades de propagação.",
+      "sourceRef": "TXT, linhas 1274–1275",
+      "module": 7
+    },
+    {
+      "id": "i1956",
+      "date": "1956",
+      "person": "Daisaku Ikeda",
+      "title": "Movimento de propagação em Osaka",
+      "description": "Ikeda lidera o movimento; 11.111 novas famílias ingressam na Soka Gakkai.",
+      "importance": "O módulo destaca o resultado como parte da expansão da organização.",
+      "sourceRef": "TXT, linhas 1277–1278",
+      "module": 7
+    },
+    {
+      "id": "t1957sep",
+      "date": "8 de setembro de 1957",
+      "person": "Josei Toda",
+      "title": "Declaração pela Abolição das Armas Nucleares",
+      "description": "Toda profere a declaração que o texto chama de base do movimento da Soka Gakkai em prol da paz.",
+      "importance": "O curso a apresenta como marco da atuação pacifista da organização.",
+      "sourceRef": "TXT, linhas 1219–1220",
+      "module": 7
+    },
+    {
+      "id": "t1957dec",
+      "date": "Dezembro de 1957",
+      "person": "Josei Toda",
+      "title": "750 mil famílias convertidas",
+      "description": "A Soka Gakkai atinge a meta anunciada por Toda, segundo o texto.",
+      "importance": "A reunião também é citada como ocasião da apresentação das três primeiras diretrizes.",
+      "sourceRef": "TXT, linhas 1222–1223; 1505",
+      "module": 7
+    },
+    {
+      "id": "t1958mar",
+      "date": "16 de março de 1958",
+      "person": "Josei Toda",
+      "title": "Cerimônia do Kosen-rufu",
+      "description": "Toda transfere a missão do kosen-rufu a mais de seis mil membros; o TXT chama a data de Dia do Kosen-rufu.",
+      "importance": "O módulo interpreta a cerimônia como transmissão de responsabilidade aos discípulos.",
+      "sourceRef": "TXT, linhas 1225–1226; 1238–1245",
+      "module": 7
+    },
+    {
+      "id": "t1958apr",
+      "date": "02 de abril de 1958",
+      "person": "Josei Toda",
+      "title": "Falecimento",
+      "description": "Toda falece aos 58 anos.",
+      "importance": "O curso passa a narrar a continuidade da missão por Ikeda e pelos discípulos.",
+      "sourceRef": "TXT, linhas 1228–1229",
+      "module": 7
+    },
+    {
+      "id": "i1960may",
+      "date": "3 de maio de 1960",
+      "person": "Daisaku Ikeda",
+      "title": "Assume a presidência",
+      "description": "Ikeda torna-se o terceiro presidente da Soka Gakkai.",
+      "importance": "O curso relaciona a liderança de Ikeda à realização dos ideais de Toda.",
+      "sourceRef": "TXT, linhas 1280–1281",
+      "module": 7
+    },
+    {
+      "id": "i1960oct",
+      "date": "2 de outubro de 1960",
+      "person": "Daisaku Ikeda",
+      "title": "Primeira viagem ao exterior",
+      "description": "Faz sua primeira viagem ao exterior para concretizar o sonho de seu mestre.",
+      "importance": "O TXT apresenta a viagem como início de uma expansão internacional.",
+      "sourceRef": "TXT, linhas 1283–1284",
+      "module": 7
+    },
+    {
+      "id": "i1963",
+      "date": "1963",
+      "person": "Daisaku Ikeda",
+      "title": "Fundação da Min-On",
+      "description": "Funda a Associação de Concertos Min-On.",
+      "importance": "Parte dos feitos de Ikeda em prol da paz, cultura e educação.",
+      "sourceRef": "TXT, linhas 1289–1291",
+      "module": 7
+    },
+    {
+      "id": "i1964",
+      "date": "1964",
+      "person": "Daisaku Ikeda",
+      "title": "Inicia a obra Revolução Humana",
+      "description": "Começa a obra citada no resumo dos feitos de Ikeda.",
+      "importance": "Registra a transmissão do legado de Toda por meio da escrita.",
+      "sourceRef": "TXT, linhas 1289–1291",
+      "module": 7
+    },
+    {
+      "id": "i1968",
+      "date": "1968",
+      "person": "Daisaku Ikeda",
+      "title": "Inaugura o Colégio Soka",
+      "description": "Inaugura o Colégio Soka em Kodaira, Tóquio.",
+      "importance": "Parte dos feitos em prol da educação citados pelo curso.",
+      "sourceRef": "TXT, linhas 1289–1291",
+      "module": 7
+    },
+    {
+      "id": "sgi1975",
+      "date": "26 de janeiro de 1975",
+      "person": "Daisaku Ikeda; Soka Gakkai Internacional",
+      "title": "Fundação da SGI",
+      "description": "A SGI é fundada na ilha de Guam, com 150 representantes de 51 países e territórios.",
+      "importance": "O TXT associa a organização à expansão internacional do movimento.",
+      "sourceRef": "TXT, linhas 1289–1291; 1311–1312",
+      "module": 7
+    },
+    {
+      "id": "sgi1983",
+      "date": "1983",
+      "person": "Daisaku Ikeda; Soka Gakkai Internacional",
+      "title": "Primeira Proposta de Paz e registro no ECOSOC",
+      "description": "O texto lista a primeira Proposta de Paz de Ikeda e informa que desde 1983 a SGI é ONG registrada no ECOSOC.",
+      "importance": "Registra a atuação descrita pelo curso em paz e diálogo internacional.",
+      "sourceRef": "TXT, linhas 1289–1291; 1311–1312",
+      "module": 7
+    },
+    {
+      "id": "i1993",
+      "date": "1993",
+      "person": "Daisaku Ikeda",
+      "title": "Inicia Nova Revolução Humana",
+      "description": "O texto situa em 1993 o início da escrita de Nova Revolução Humana. Também relata sua visita ao Brasil nesse ano.",
+      "importance": "A obra é apresentada como parte do legado literário de Ikeda.",
+      "sourceRef": "TXT, linhas 309; 1289–1291",
+      "module": 7
+    },
+    {
+      "id": "i2013",
+      "date": "2013",
+      "person": "Daisaku Ikeda",
+      "title": "Inaugura o Auditório do Grande Juramento",
+      "description": "O texto lista a inauguração entre as realizações de Ikeda.",
+      "importance": "Último marco da lista de feitos em paz, cultura e educação neste trecho.",
+      "sourceRef": "TXT, linhas 1289–1291",
+      "module": 7
+    },
+    {
+      "id": "i2023",
+      "date": "15 de novembro de 2023",
+      "person": "Daisaku Ikeda",
+      "title": "Falecimento",
+      "description": "Daisaku Ikeda falece aos 95 anos, conforme a cronologia do TXT.",
+      "importance": "O restante do módulo trata da continuidade de seus ideais pelos discípulos.",
+      "sourceRef": "TXT, linhas 1285–1286",
+      "module": 7
+    },
+    {
+      "id": "diretrizes2003",
+      "date": "Dezembro de 2003",
+      "person": "Daisaku Ikeda",
+      "title": "Acrescenta duas diretrizes",
+      "description": "Ikeda acrescenta a quarta e a quinta das Cinco Diretrizes Eternas da Soka Gakkai.",
+      "importance": "O curso apresenta as diretrizes como princípios para aprofundar a fé.",
+      "sourceRef": "TXT, linha 1505",
+      "module": 7
+    },
+    {
+      "id": "const2017",
+      "date": "Novembro de 2017",
+      "person": "Soka Gakkai",
+      "title": "Constituição estabelecida",
+      "description": "O TXT situa em novembro de 2017 o estabelecimento da Constituição da Soka Gakkai.",
+      "importance": "Base documental mencionada junto da revisão de 2024.",
+      "sourceRef": "TXT, linha 1508",
+      "module": 7
+    },
+    {
+      "id": "const2024",
+      "date": "Novembro de 2024",
+      "person": "Daisaku Ikeda; Soka Gakkai Internacional",
+      "title": "Revisão da Constituição e nomeação",
+      "description": "A Soka Gakkai revisa sua Constituição e nomeia Ikeda como eterno presidente da SGI, conforme o material.",
+      "importance": "O módulo usa o marco para tratar da continuidade da liderança e do kosen-rufu.",
+      "sourceRef": "TXT, linha 1508",
+      "module": 7
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "ok": true,
+  "command": "finalize",
+  "status": "pass",
+  "type": "explainer",
+  "quality": "showcase",
+  "specification": {
+    "path": "C:\\Users\\mattl\\Desktop\\TRILHA SOKA\\.archify\\explainer-trilha-soka-20261127-003058\\candidate.archify.md",
+    "sha256": "995cf566232230f811fdd71c83b8504a2e9359a49c1447857540358a07fcc6a5",
+    "bytes": 5960
+  },
+  "artifact": {
+    "path": "C:\\Users\\mattl\\Desktop\\TRILHA SOKA\\.archify\\explainer-trilha-soka-20261127-003058\\resumo-trilha-soka.html",
+    "sha256": "3b072a8f74990e9367a78124db320c7f3bc59120931b8343eb05667083f1fa42",
+    "bytes": 1940011
+  },
+  "gates": {
+    "validate": "pass",
+    "deliver": "pass",
+    "check": "pass",
+    "browser-check": "not-run"
+  },
+  "diagnostics": [],
+  "diagnosticSummary": {
+    "total": 0,
+    "shown": 0,
+    "truncated": false
+  },
+  "evidence": {
+    "receipt": "C:\\Users\\mattl\\Desktop\\TRILHA SOKA\\.archify\\explainer-trilha-soka-20261127-003058\\resumo-trilha-soka.finalize.json",
+    "summaryReceipt": "C:\\Users\\mattl\\Desktop\\TRILHA SOKA\\.archify\\explainer-trilha-soka-20261127-003058\\resumo-trilha-soka.finalize-summary.json"
+  },
+  "update": {
+    "status": "current",
+    "installedVersion": "3.3.2",
+    "availableVersion": "3.3.2",
+    "releaseNotes": null,
+    "checkedAt": "2026-11-26T16:25:36.964Z",
+    "source": "cache",
+    "noticeRequired": false,
+    "noticeText": null
+  },
+  "visualReview": "not-requested",
+  "durationMs": 3186,
+  "browserCheck": {
+    "requested": false,
+    "ran": false
+  }
+}
